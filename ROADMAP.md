@@ -1,6 +1,6 @@
 # Vision for Space Exploration — Roadmap
 
-> Forward-looking plan as of January 14, 2004
+> Forward-looking plan as of February 11, 2005
 
 ## Upcoming Milestones
 

@@ -1,8 +1,8 @@
 # Vision for Space Exploration — Program Status
 
-> As of January 14, 2004
+> As of February 11, 2005
 
-**NASA Administrator:** Sean O'Keefe (10th Administrator)
+**NASA Administrator:** Frederick D. Gregory (Acting Administrator)
 **Goal:** Return humans to the Moon by 2020, then on to Mars
 **Next Milestone:** Architecture studies to define vehicle and mission requirements
 
@@ -10,4 +10,4 @@
 No vehicle programs yet established.
 
 ## Overview
-President Bush has directed NASA to develop a new crew exploration vehicle, return to the Moon by 2020, and prepare for human exploration of Mars. The Space Shuttle will be retired after completing the International Space Station.
+NASA is between permanent administrators following Sean O'Keefe's departure. Architecture studies for the Vision for Space Exploration continue under Acting Administrator Gregory.
