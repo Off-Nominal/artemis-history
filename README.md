@@ -1,17 +1,20 @@
-# Vision for Space Exploration
+# Constellation Program
 
-On January 14, 2004, President George W. Bush announced the Vision for Space
-Exploration, directing NASA to develop plans for human exploration beyond low
-Earth orbit, including returning to the Moon and eventually traveling to Mars.
+The NASA Authorization Act of 2005 formally establishes the Constellation
+Program to fulfill the Vision for Space Exploration.
 
-## Goals
+## Architecture
 
-- Complete the International Space Station by 2010
-- Safely fly the Space Shuttle until 2010
-- Develop and test a new Crew Exploration Vehicle (CEV) by 2008
-- Return to the Moon no later than 2020
-- Extend human presence across the solar system and beyond
+- **Ares I** - Crew launch vehicle
+- **Ares V** - Cargo launch vehicle (heavy lift)
+- **Orion CEV** - Crew Exploration Vehicle for beyond-LEO missions
+- **Altair** - Lunar lander
+
+## Goal
+
+Return humans to the Moon by 2020, establish a lunar outpost, and prepare
+for eventual crewed missions to Mars.
 
 ## Status
 
-Program planning underway.
+Development contracts being awarded. Orion CEV in early design phase.

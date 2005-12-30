@@ -1,14 +1,23 @@
-# Vision for Space Exploration — Roadmap
+# Constellation Program — Roadmap
 
-> Forward-looking plan as of April 14, 2005
+> Forward-looking plan as of December 30, 2005
 
 ## Upcoming Milestones
 
-- **2008**: First crewed flight of the new Crew Exploration Vehicle
-- **2010**: Retire the Space Shuttle after completing the International Space Station
-- **2014**: Begin uncrewed lunar exploration missions
-- **2020**: Return humans to the lunar surface
+- **2009**: Ares I first test flight (Ares I-X)
+- **2010**: Space Shuttle retirement
+- **2012–2014**: First crewed Orion flight on Ares I
+- **2018–2020**: First crewed lunar landing using Ares V, Orion, and Altair lander
+
+## Vehicle Development
+
+| Vehicle | Role | First Flight |
+|---------|------|-------------|
+| Ares I | Crew launch vehicle | 2009 (test) |
+| Ares V | Cargo launch vehicle | ~2018 |
+| Orion | Crew capsule | ~2014 |
+| Altair | Lunar lander | ~2018 |
 
 ## Long-Term Vision
 
-Establish a sustained human presence on the Moon, then use it as a stepping stone for human missions to Mars and beyond.
+Establish an outpost on the lunar surface for sustained exploration, technology development, and preparation for human missions to Mars.

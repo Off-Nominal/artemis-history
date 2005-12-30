@@ -1,13 +1,15 @@
-# Vision for Space Exploration — Program Status
+# Constellation Program — Program Status
 
-> As of April 14, 2005
+> As of December 30, 2005
 
 **NASA Administrator:** Michael D. Griffin (11th Administrator)
 **Goal:** Return humans to the Moon by 2020, then on to Mars
-**Next Milestone:** Exploration Systems Architecture Study (ESAS)
+**Next Milestone:** Ares I and Orion preliminary design reviews
 
 ## Vehicles
-No vehicle programs yet established.
+- **Ares I (crew) / Ares V (cargo): Early development**
+- **Orion Crew Exploration Vehicle: Early development**
+- **Altair Lunar Lander: Early development**
 
 ## Overview
-Michael Griffin, one of the most technically qualified administrators in NASA history, has been confirmed. He has ordered the Exploration Systems Architecture Study to define the vehicles and mission architecture for the Vision for Space Exploration.
+NASA has established the Constellation Program to replace the Space Shuttle and return humans to the Moon. The program includes the Ares I crew launch vehicle, Ares V cargo launcher, Orion crew capsule, and Altair lunar lander, with a target of returning to the Moon by 2020.
