@@ -1,10 +1,10 @@
 # Constellation Program — Program Status
 
-> As of December 30, 2005
+> As of January 20, 2009
 
-**NASA Administrator:** Michael D. Griffin (11th Administrator)
+**NASA Administrator:** Christopher Scolese (Acting Administrator)
 **Goal:** Return humans to the Moon by 2020, then on to Mars
-**Next Milestone:** Ares I and Orion preliminary design reviews
+**Next Milestone:** Augustine Committee review of Constellation feasibility
 
 ## Vehicles
 - **Ares I (crew) / Ares V (cargo): Early development**
@@ -12,4 +12,4 @@
 - **Altair Lunar Lander: Early development**
 
 ## Overview
-NASA has established the Constellation Program to replace the Space Shuttle and return humans to the Moon. The program includes the Ares I crew launch vehicle, Ares V cargo launcher, Orion crew capsule, and Altair lunar lander, with a target of returning to the Moon by 2020.
+The Obama administration has taken office and Constellation's future is uncertain. An independent review committee (Augustine Committee) is expected to evaluate whether Constellation can be executed within projected budgets.
