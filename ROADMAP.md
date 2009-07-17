@@ -1,6 +1,6 @@
 # Constellation Program — Roadmap
 
-> Forward-looking plan as of January 20, 2009
+> Forward-looking plan as of July 17, 2009
 
 ## Upcoming Milestones
 
