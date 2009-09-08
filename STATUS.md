@@ -1,10 +1,10 @@
 # Constellation Program — Program Status
 
-> As of July 17, 2009
+> As of September 8, 2009
 
 **NASA Administrator:** Charles F. Bolden Jr. (12th Administrator)
 **Goal:** Return humans to the Moon by 2020, then on to Mars
-**Next Milestone:** Augustine Committee review of Constellation feasibility
+**Next Milestone:** White House decision on Constellation's future
 
 ## Vehicles
 - **Ares I (crew) / Ares V (cargo): Early development**
@@ -12,4 +12,4 @@
 - **Altair Lunar Lander: Early development**
 
 ## Overview
-Charles Bolden, a former astronaut and Marine Corps Major General, has been confirmed as NASA Administrator. The Augustine Committee is reviewing Constellation's feasibility and is expected to report findings shortly.
+The Augustine Committee has found that Constellation is significantly over budget and behind schedule under current funding. The committee presented multiple alternative architectures. The administration must now decide on a path forward for human spaceflight.

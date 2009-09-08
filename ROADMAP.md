@@ -1,19 +1,19 @@
 # Constellation Program — Roadmap
 
-> Forward-looking plan as of July 17, 2009
+> Forward-looking plan as of September 8, 2009
 
 ## Upcoming Milestones
 
-- **June 2009**: Ares I-X test flight
-- **2010**: Space Shuttle retirement
-- **2009**: Augustine Committee to review Constellation feasibility
-- **2015**: First crewed Orion flight (if Constellation continues)
-- **2020+**: Lunar landing (if Constellation continues)
+- **2010**: Space Shuttle retirement (confirmed regardless of outcome)
+- **TBD**: White House decision on future of Constellation and human spaceflight direction
 
-## Uncertainty
+## Augustine Committee Options Presented
 
-The incoming Obama administration has commissioned an independent review of human spaceflight plans. The future of the Constellation Program — and its timeline — may change significantly based on the findings and subsequent policy decisions.
+1. Continue Constellation as-is (not feasible within current budget)
+2. Constellation with increased funding
+3. Cancel Constellation, invest in commercial crew and technology
+4. Various "Flexible Path" options to deep space destinations
 
 ## Long-Term Vision
 
-Depends on outcome of the Augustine Committee review and White House policy decisions.
+To be determined based on upcoming policy decisions.
