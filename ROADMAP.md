@@ -1,19 +1,19 @@
 # Constellation Program — Roadmap
 
-> Forward-looking plan as of September 8, 2009
+> Forward-looking plan as of February 1, 2010
 
 ## Upcoming Milestones
 
-- **2010**: Space Shuttle retirement (confirmed regardless of outcome)
-- **TBD**: White House decision on future of Constellation and human spaceflight direction
+- **2010**: Space Shuttle retirement
+- **2011**: Begin commercial crew development for ISS access
+- **2015**: Develop a new heavy-lift rocket (details TBD)
+- **2025**: Visit a near-Earth asteroid (proposed)
+- **Mid-2030s**: Orbit Mars (proposed)
 
-## Augustine Committee Options Presented
+## Uncertainty
 
-1. Continue Constellation as-is (not feasible within current budget)
-2. Constellation with increased funding
-3. Cancel Constellation, invest in commercial crew and technology
-4. Various "Flexible Path" options to deep space destinations
+The administration has proposed canceling Constellation with no defined replacement program. Congress is expected to push back strongly.
 
 ## Long-Term Vision
 
-To be determined based on upcoming policy decisions.
+Transition to commercial crew for ISS, develop new heavy-lift capability, and pursue a "Flexible Path" to deep space.
