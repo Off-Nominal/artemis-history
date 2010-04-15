@@ -31,3 +31,29 @@ The proposal draws intense criticism from Congress and Apollo-era
 astronauts, including Neil Armstrong, Jim Lovell, and Gene Cernan,
 who write an open letter calling it "devastating" to U.S. leadership
 in space.
+
+## April 15, 2010 - Obama KSC Speech: Asteroid, then Mars
+
+**Decision-maker**: President Barack Obama, Kennedy Space Center
+
+Under intense political pressure, Obama delivers a major speech at KSC
+setting new exploration destinations:
+
+"By 2025, we expect new spacecraft designed for long journeys to
+allow us to begin the first-ever crewed missions beyond the Moon
+into deep space. So we'll start by sending astronauts to an asteroid
+for the first time in history."
+
+"By the mid-2030s, I believe we can send humans to orbit Mars and
+return them safely to Earth. And a landing on Mars will follow."
+
+This is the "Flexible Path" approach from the Augustine Committee:
+- Skip the lunar surface entirely
+- Visit near-Earth asteroids (~2025)
+- Reach Mars orbit (~mid-2030s)
+- Eventually land on Mars
+
+The Moon is explicitly bypassed: "We've been there before."
+
+Key shift: From no destination (February) to asteroid-first, Mars-
+eventually -- but NOT the Moon.

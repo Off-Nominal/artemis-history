@@ -1,9 +1,9 @@
 # Constellation Program — Program Status
 
-> As of February 1, 2010
+> As of April 15, 2010
 
 **NASA Administrator:** Charles F. Bolden Jr. (12th Administrator)
-**Goal:** No defined destination — human spaceflight program in transition
+**Goal:** Asteroid by 2025, Mars orbit by mid-2030s
 **Next Milestone:** Congressional action on NASA's future direction
 
 ## Vehicles
@@ -12,4 +12,4 @@
 - **Altair Lunar Lander: Early development**
 
 ## Overview
-The Obama administration has proposed canceling the Constellation Program in its FY2011 budget, with no replacement human exploration program. NASA would focus on technology development, commercial crew to ISS, and extending ISS operations. The proposal has generated strong Congressional opposition.
+President Obama has outlined a new strategy at Kennedy Space Center: skip the Moon, visit an asteroid by 2025, orbit Mars by the mid-2030s. NASA will develop a heavy-lift rocket and continue Orion as a crew vehicle. This 'Flexible Path' approach prioritizes deep space capabilities over lunar surface operations.
