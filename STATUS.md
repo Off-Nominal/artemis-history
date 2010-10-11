@@ -1,15 +1,14 @@
-# Constellation Program — Program Status
+# Space Launch System / Orion — Program Status
 
-> As of April 15, 2010
+> As of October 11, 2010
 
 **NASA Administrator:** Charles F. Bolden Jr. (12th Administrator)
 **Goal:** Asteroid by 2025, Mars orbit by mid-2030s
-**Next Milestone:** Congressional action on NASA's future direction
+**Next Milestone:** SLS and Orion design milestones
 
 ## Vehicles
-- **Ares I (crew) / Ares V (cargo): Early development**
-- **Orion Crew Exploration Vehicle: Early development**
-- **Altair Lunar Lander: Early development**
+- **Space Launch System (SLS): Authorized — early development**
+- **Orion Multi-Purpose Crew Vehicle (MPCV): Continued from Constellation**
 
 ## Overview
-President Obama has outlined a new strategy at Kennedy Space Center: skip the Moon, visit an asteroid by 2025, orbit Mars by the mid-2030s. NASA will develop a heavy-lift rocket and continue Orion as a crew vehicle. This 'Flexible Path' approach prioritizes deep space capabilities over lunar surface operations.
+Congress has passed the NASA Authorization Act of 2010, canceling Constellation while directing NASA to develop the Space Launch System (SLS) heavy-lift rocket and continue the Orion capsule. SLS must use Shuttle-derived components including RS-25 engines and solid rocket boosters.

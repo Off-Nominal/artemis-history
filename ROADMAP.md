@@ -1,15 +1,15 @@
-# Constellation Program — Roadmap
+# Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of April 15, 2010
+> Forward-looking plan as of October 11, 2010
 
 ## Upcoming Milestones
 
-- **2010**: Space Shuttle retirement
-- **2011**: Begin commercial crew development
-- **2015**: Heavy-lift rocket development decision
-- **2025**: Send astronauts to a near-Earth asteroid
-- **Mid-2030s**: Send astronauts to orbit Mars
+- **2011**: Space Shuttle retirement (final flights)
+- **Late 2017**: SLS/Orion first flight (Exploration Mission 1)
+- **~2021**: First crewed SLS/Orion mission (EM-2)
+- **2025**: Crewed asteroid visit
+- **Mid-2030s**: Crewed Mars mission
 
 ## Long-Term Vision
 
-Flexible Path approach: progressively more distant destinations building capability for an eventual Mars landing.
+Use SLS and Orion to send crews beyond low Earth orbit — first to an asteroid, then to Mars.

@@ -1,20 +1,34 @@
-# Constellation Program
+# Space Launch System & Orion Program
 
-The NASA Authorization Act of 2005 formally establishes the Constellation
-Program to fulfill the Vision for Space Exploration.
+## Background
 
-## Architecture
+Following the Augustine Committee's findings and President Obama's February
+2010 proposal to cancel the Constellation Program, Congress passed the NASA
+Authorization Act of 2010, signed into law on October 11, 2010.
 
-- **Ares I** - Crew launch vehicle
-- **Ares V** - Cargo launch vehicle (heavy lift)
-- **Orion CEV** - Crew Exploration Vehicle for beyond-LEO missions
-- **Altair** - Lunar lander
+## Key Decisions
 
-## Goal
+- Constellation Program's Ares I and Ares V rockets are cancelled
+- NASA directed to develop a new **Space Launch System (SLS)** derived
+  from Space Shuttle and Constellation hardware
+- **Orion spacecraft** retained for missions beyond low Earth orbit
+- $58 billion authorized across FY2011-2013
+- Commercial crew development for ISS access
 
-Return humans to the Moon by 2020, establish a lunar outpost, and prepare
-for eventual crewed missions to Mars.
+## Space Launch System
 
-## Status
+- Heavy-lift launch vehicle
+- Initial Block 1: 70 metric tons to LEO
+- Derived from Shuttle RS-25 engines and 5-segment solid rocket boosters
+- Target first flight: 2017
 
-Development contracts being awarded. Orion CEV in early design phase.
+## Orion Multi-Purpose Crew Vehicle
+
+- Evolved from Constellation-era Orion CEV
+- Capable of deep space missions
+- European Service Module provided by ESA
+
+## Planned Missions
+
+- **Exploration Mission-1 (EM-1)**: Uncrewed test flight around the Moon
+- **Exploration Mission-2 (EM-2)**: First crewed flight
