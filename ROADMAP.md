@@ -1,14 +1,15 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of September 14, 2011
+> Forward-looking plan as of January 16, 2013
 
 ## Upcoming Milestones
 
-- **Late 2017**: SLS Block 1 / Orion first flight (EM-1, uncrewed)
+- **December 2014**: Orion EFT-1 test flight on Delta IV Heavy
+- **Late 2017**: SLS/Orion first flight (EM-1, uncrewed) with ESA service module
 - **~2021**: First crewed SLS/Orion mission (EM-2)
 - **2025**: Crewed asteroid visit
-- **Mid-2030s**: Crewed Mars orbit mission
+- **Mid-2030s**: Crewed Mars mission
 
 ## Long-Term Vision
 
-Evolve SLS through progressively more powerful configurations. Use SLS and Orion for deep-space missions to asteroids and eventually Mars.
+SLS and Orion with ESA partnership will enable deep-space missions to asteroids and Mars.
