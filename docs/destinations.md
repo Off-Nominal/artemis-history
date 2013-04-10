@@ -57,3 +57,12 @@ The Moon is explicitly bypassed: "We've been there before."
 
 Key shift: From no destination (February) to asteroid-first, Mars-
 eventually -- but NOT the Moon.
+
+## April 10, 2013 - Asteroid Redirect Mission Proposed
+
+**Destination**: Near-Earth asteroid (redirected to lunar orbit)
+**Decision-maker**: Obama administration via FY2014 budget
+
+ARM proposed as the means to fulfill "asteroid by 2025" goal.
+Robotic capture of small asteroid, redirect to lunar orbit, crew visit
+in Orion. Critics call it a "mission in search of a purpose."
