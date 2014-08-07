@@ -1,14 +1,14 @@
 # Space Launch System / Orion — Program Status
 
-> As of April 10, 2013
+> As of August 7, 2014
 
 **NASA Administrator:** Charles F. Bolden Jr. (12th Administrator)
 **Goal:** Asteroid Redirect Mission (capture near-Earth asteroid); Mars in the 2030s
-**Next Milestone:** ARM concept refinement; SLS/Orion development milestones
+**Next Milestone:** Orion EFT-1 uncrewed test flight (December 2014)
 
 ## Vehicles
-- **Space Launch System (SLS): Design unveiled — 70t initial, 130t evolved capability**
+- **Space Launch System (SLS): Passed KDP-C — full development authorized, EM-1 targeted November 2018**
 - **Orion MPCV: In development — ESA providing European Service Module**
 
 ## Overview
-The Obama administration has proposed the Asteroid Redirect Mission, giving NASA a near-term deep-space destination. ARM would robotically capture a small near-Earth asteroid and redirect it into lunar orbit, where Orion astronauts would visit and study it.
+SLS has passed Key Decision Point C, receiving full development authority with a first launch target of November 2018. Meanwhile, Orion's first test flight (EFT-1) on a Delta IV Heavy is imminent.
