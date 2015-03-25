@@ -36,3 +36,29 @@ Critics call ARM a "mission in search of a purpose" -- designed around
 what SLS/Orion can do rather than a compelling scientific or exploration
 rationale. Seen by some as a political compromise to give SLS a near-term
 mission without committing to the cost of returning to the Moon.
+
+## Option B Selected: March 25, 2015
+
+NASA announces selection of the "boulder option" (Option B) at the
+mission concept review.
+
+### Revised Concept (Option B)
+- Robotic spacecraft (Asteroid Redirect Robotic Mission / ARRM) visits
+  a large asteroid (100+ meters diameter)
+- Retrieves a multi-ton boulder (2-4 meters) from the asteroid's surface
+- Redirects the boulder to a distant retrograde orbit around the Moon
+- Astronauts visit the boulder in Orion (Asteroid Redirect Crewed Mission / ARCM)
+
+### Why Option B?
+- More scientifically valuable than capturing a tiny asteroid
+- Better planetary defense demonstration (gravity tractor effect)
+- Proves solar electric propulsion at scale
+- Tests autonomous rendezvous and sample collection techniques
+
+### Target Asteroid
+Candidate asteroids include Itokawa, Bennu, and 2008 EV5.
+
+### Timeline
+- ARRM (robotic) launch: ~2021
+- Boulder delivery to lunar orbit: ~2023-2024
+- ARCM (crewed) visit: ~2025
