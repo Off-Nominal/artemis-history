@@ -66,3 +66,12 @@ eventually -- but NOT the Moon.
 ARM proposed as the means to fulfill "asteroid by 2025" goal.
 Robotic capture of small asteroid, redirect to lunar orbit, crew visit
 in Orion. Critics call it a "mission in search of a purpose."
+
+## October 8, 2015 - "Journey to Mars" Report
+
+**Destination**: Mars (eventually, in "the 2030s")
+**Framework**: Three phases: Earth Reliant -> Proving Ground -> Earth Independent
+
+NASA publishes formal Mars strategy. No Moon landing in the plan.
+Asteroid Redirect Mission fills the "Proving Ground" phase.
+Criticized as vague -- no dates, no costs, no funded plan.

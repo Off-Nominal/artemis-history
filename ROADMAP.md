@@ -1,19 +1,20 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of March 25, 2015
+> Forward-looking plan as of October 8, 2015
 
 ## Upcoming Milestones
 
-- **November 2018**: SLS/Orion EM-1 — first SLS flight (uncrewed lunar flyby)
-- **Early 2020s**: ARM robotic asteroid capture mission
-- **~2022–2023**: EM-2 — first crewed SLS/Orion flight
-- **Mid-2020s**: Crewed visit to redirected asteroid in lunar orbit
-- **2030s**: Crewed Mars missions
+- **November 2018**: SLS/Orion EM-1 — first SLS flight (uncrewed)
+- **Early 2020s**: ARM robotic mission; EM-2 crewed flight
+- **Mid-2020s**: Crewed visit to redirected asteroid; cislunar proving ground
+- **2030s**: Crewed Mars orbit mission; eventual Mars surface
 
-## Completed
+## Journey to Mars — Three Phases
 
-- ~~December 2014: Orion EFT-1~~ ✓ Successful 4.5-hour test flight
+1. **Earth Reliant (now–2024)**: ISS research on crew health, life support, 3D printing
+2. **Proving Ground (2018–2030s)**: SLS/Orion missions in cislunar space, asteroid visit, deep-space habitat testing
+3. **Earth Independent (2030s+)**: Mars orbit mission, eventually Mars surface
 
 ## Long-Term Vision
 
-Orion has proven its heat shield and systems in space. SLS core stage production continues toward EM-1 in November 2018.
+A step-by-step approach to Mars, using each mission to demonstrate progressively more demanding deep-space capabilities.
