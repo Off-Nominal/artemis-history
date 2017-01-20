@@ -1,6 +1,6 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of October 8, 2015
+> Forward-looking plan as of January 20, 2017
 
 ## Upcoming Milestones
 
