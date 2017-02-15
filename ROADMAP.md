@@ -1,20 +1,19 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of January 20, 2017
+> Forward-looking plan as of February 15, 2017
 
 ## Upcoming Milestones
 
-- **November 2018**: SLS/Orion EM-1 — first SLS flight (uncrewed)
-- **Early 2020s**: ARM robotic mission; EM-2 crewed flight
-- **Mid-2020s**: Crewed visit to redirected asteroid; cislunar proving ground
-- **2030s**: Crewed Mars orbit mission; eventual Mars surface
+- **TBD**: EM-1 crew feasibility study results expected in coming months
+- **November 2018**: SLS/Orion EM-1 — first flight (uncrewed, OR potentially crewed pending study)
+- **Early 2020s**: ARM robotic mission (status uncertain under new administration)
+- **~2022–2023**: EM-2 — first crewed flight (if EM-1 stays uncrewed)
+- **2030s**: Mars
 
-## Journey to Mars — Three Phases
+## Under Study
 
-1. **Earth Reliant (now–2024)**: ISS research on crew health, life support, 3D printing
-2. **Proving Ground (2018–2030s)**: SLS/Orion missions in cislunar space, asteroid visit, deep-space habitat testing
-3. **Earth Independent (2030s+)**: Mars orbit mission, eventually Mars surface
+Acting Administrator Lightfoot has directed NASA to study adding a crew of two to EM-1. Key questions under evaluation: What modifications to Orion are needed? What is the cost impact? How would it affect the launch schedule? The study will assess whether the benefits of an early crewed deep-space mission outweigh the technical and programmatic risks.
 
 ## Long-Term Vision
 
-A step-by-step approach to Mars, using each mission to demonstrate progressively more demanding deep-space capabilities.
+The new administration wants bold, visible progress in human spaceflight. The EM-1 crew study reflects a desire for an early demonstration of deep-space crew capability.
