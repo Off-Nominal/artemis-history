@@ -75,3 +75,17 @@ in Orion. Critics call it a "mission in search of a purpose."
 NASA publishes formal Mars strategy. No Moon landing in the plan.
 Asteroid Redirect Mission fills the "Proving Ground" phase.
 Criticized as vague -- no dates, no costs, no funded plan.
+
+## March 21, 2017 - NASA Transition Authorization Act
+
+**Signed by**: President Donald Trump
+
+First NASA authorization in 7 years. Key destination language:
+- Mars as long-term goal: "achieving human exploration of Mars and beyond"
+- "Human missions near or on the surface of Mars in the 2030s"
+- Allows "missions to intermediate destinations" (cislunar, Mars moons)
+- Does NOT specifically mandate return to lunar surface
+
+Signals bipartisan congressional commitment to Mars but leaves the
+specific path (Moon-first vs. asteroid-first vs. direct) to be
+determined by the new administration.
