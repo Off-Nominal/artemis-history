@@ -13,3 +13,17 @@ SLS Block 1 passes KDP-C, formally entering full-scale development.
 
 This establishes the official baseline from which all future schedule
 slips will be measured. NASA committed to this date before Congress.
+
+### April 27, 2017 - GAO Report (GAO-17-414)
+The Government Accountability Office concludes EM-1 will slip beyond
+the November 2018 commitment to 2019.
+
+NASA Associate Administrator Bill Gerstenmaier agrees, stating NASA is
+"in the process of establishing a new target date in 2019."
+
+Contributing factors:
+- Core stage manufacturing issues at Michoud Assembly Facility
+- Boeing contract modifications extending timeline
+- Welding and structural assembly challenges
+
+**New target**: Under review, expected 2019
