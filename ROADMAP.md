@@ -1,19 +1,19 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of April 27, 2017
+> Forward-looking plan as of May 12, 2017
 
 ## Upcoming Milestones
 
-- **May 2017**: EM-1 crew feasibility study results
-- **2019**: SLS/Orion EM-1 — first SLS flight (slipping from November 2018)
-- **Early 2020s**: ARM status uncertain; EM-2 crewed flight
-- **Mid-2020s**: Crewed asteroid visit (if ARM continues)
-- **2030s**: Crewed Mars missions
+- **2019**: SLS/Orion EM-1 — first flight (CONFIRMED UNCREWED)
+- **TBD**: ARM fate to be decided by the new administration
+- **~2022–2023**: EM-2 — first crewed SLS/Orion mission
+- **TBD**: Destination beyond EM-2 (Moon return increasingly likely)
+- **2030s**: Mars
 
-## Schedule Pressure
+## EM-1 Crew Decision
 
-GAO has flagged likely EM-1 slip past November 2018. Core stage production and ESM delivery are the primary drivers.
+Adding crew was technically feasible but would have cost $600–900M and delayed the mission into the 2020s. NASA cited cost as the primary factor. EM-1 proceeds as planned: uncrewed lunar flyby.
 
 ## Long-Term Vision
 
-Journey to Mars three-phase approach remains the strategic framework. Near-term schedule pressure on SLS first flight.
+The near-term focus is getting SLS flying. The broader human exploration destination — Moon or asteroid — awaits policy decisions.
