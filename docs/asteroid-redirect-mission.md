@@ -62,3 +62,26 @@ Candidate asteroids include Itokawa, Bennu, and 2008 EV5.
 - ARRM (robotic) launch: ~2021
 - Boulder delivery to lunar orbit: ~2023-2024
 - ARCM (crewed) visit: ~2025
+
+## Cancellation: June 13, 2017
+
+The Trump administration cancels the Asteroid Redirect Mission.
+
+### Timeline of Cancellation
+- **March 16, 2017**: FY2018 budget request zeroes out ARM funding
+  (from $140M to $0)
+- **June 13, 2017**: NASA formally announces ARM "closeout"
+- **December 11, 2017**: Space Policy Directive-1 definitively ends ARM
+  by redirecting NASA back to the Moon
+
+### Legacy
+- Solar electric propulsion work (Advanced Electric Propulsion System / AEPS)
+  continues and is incorporated into the Gateway Power and Propulsion Element
+- Planetary defense techniques explored under ARM inform the DART mission
+  (Double Asteroid Redirection Test, launched Nov 2021)
+- ARM's cancellation removes the last justification for the "asteroid first"
+  approach, clearing the way for a return to the Moon
+
+ARM lasted approximately 4 years (2013-2017) and never progressed beyond
+concept studies and technology development. It was never funded for
+implementation.

@@ -89,3 +89,27 @@ First NASA authorization in 7 years. Key destination language:
 Signals bipartisan congressional commitment to Mars but leaves the
 specific path (Moon-first vs. asteroid-first vs. direct) to be
 determined by the new administration.
+
+## June 13, 2017 - Asteroid Redirect Mission Cancelled
+
+**Decision-maker**: Trump administration
+
+ARM formally closed out. FY2018 budget zeroes funding. The asteroid
+destination is abandoned after 4 years. Solar electric propulsion
+work preserved for Gateway. Stage set for Moon return.
+
+## December 11, 2017 - Space Policy Directive-1: BACK TO THE MOON
+
+**Decision-maker**: President Trump, VP Pence (National Space Council)
+
+Key language change in National Space Policy:
+- DELETED: "sending humans to an asteroid" and "send humans to orbit Mars"
+- ADDED: "the United States will lead the return of humans to the Moon
+  for long-term exploration and utilization, followed by human missions
+  to Mars"
+
+After 7 years of asteroid/Mars-first strategy (2010-2017), NASA's
+destination officially pivots back to the Moon. The Moon is now the
+near-term goal, Mars the long-term aspiration -- essentially returning
+to the Bush-era framework but with commercial and international
+partnerships emphasized.
