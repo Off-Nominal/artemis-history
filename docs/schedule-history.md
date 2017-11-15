@@ -27,3 +27,14 @@ Contributing factors:
 - Welding and structural assembly challenges
 
 **New target**: Under review, expected 2019
+
+### November 2017 - New Baseline Established
+Following comprehensive review of all three Exploration Systems
+Development programs (SLS, Orion, Exploration Ground Systems), NASA
+establishes a new launch readiness date.
+
+**New target**: June 2020
+
+This represents a 19-month slip from the November 2018 commitment,
+though internally the schedule had been under pressure since 2016
+when Boeing's contract was modified to extend the target to mid-2018.

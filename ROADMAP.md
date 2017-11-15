@@ -1,14 +1,14 @@
 # Space Launch System / Orion — Roadmap
 
-> Forward-looking plan as of July 15, 2017
+> Forward-looking plan as of November 15, 2017
 
 ## Upcoming Milestones
 
-- **2019–2020**: SLS/Orion EM-1 (first flight date under review)
-- **~2023**: EM-2 — first crewed SLS/Orion mission
-- **TBD**: New near-term deep-space destination expected (Moon likely)
+- **June 2020**: SLS/Orion EM-1 — first flight (uncrewed lunar flyby)
+- **~2023**: EM-2 — first crewed mission
+- **TBD**: Lunar surface mission (awaiting new policy direction)
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-Mars remains the long-term goal. The near-term path awaits a new presidential directive.
+EM-1 has slipped to June 2020. The path beyond EM-2 depends on the upcoming Space Policy Directive.
