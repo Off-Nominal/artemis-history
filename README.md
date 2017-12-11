@@ -32,3 +32,9 @@ Authorization Act of 2010, signed into law on October 11, 2010.
 
 - **Exploration Mission-1 (EM-1)**: Uncrewed test flight around the Moon
 - **Exploration Mission-2 (EM-2)**: First crewed flight
+
+## Policy Direction (December 2017)
+
+Space Policy Directive-1 formally redirects NASA to return humans to
+the Moon as a stepping stone to Mars, emphasizing commercial and
+international partnerships.
