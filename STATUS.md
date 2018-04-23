@@ -1,8 +1,8 @@
 # Space Launch System / Orion — Program Status
 
-> As of December 11, 2017
+> As of April 23, 2018
 
-**NASA Administrator:** Robert M. Lightfoot Jr. (Acting Administrator)
+**NASA Administrator:** Jim Bridenstine (13th Administrator)
 **Goal:** Return to the Moon as a stepping stone to Mars
 **Next Milestone:** SLS EM-1 first flight (June 2020 target)
 
@@ -11,4 +11,4 @@
 - **Orion MPCV: EFT-1 complete — 4.5-hour uncrewed test flight successful**
 
 ## Overview
-President Trump has signed Space Policy Directive 1, formally directing NASA to return Americans to the Moon for long-term exploration, followed by Mars missions. This is the first clear lunar mandate since the Vision for Space Exploration in 2004 and ends the Obama-era 'Flexible Path' approach.
+Jim Bridenstine has been confirmed as NASA's 13th Administrator in a 50-49 Senate vote. The former Oklahoma congressman and Navy pilot inherits SPD-1's lunar mandate and is expected to accelerate lunar return plans. SLS EM-1 remains targeted for 2020.
