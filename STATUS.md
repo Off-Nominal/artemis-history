@@ -1,14 +1,14 @@
-# Space Launch System / Orion — Program Status
+# Artemis — Program Status
 
-> As of March 26, 2019
+> As of May 13, 2019
 
 **NASA Administrator:** Jim Bridenstine (13th Administrator)
 **Goal:** Land Americans on the Moon by 2024
-**Next Milestone:** Name the lunar program; solicit commercial lunar landers
+**Next Milestone:** Issue Human Landing System solicitation; begin SLS Green Run
 
 ## Vehicles
 - **Space Launch System (SLS): EM-1 target now June 2020**
 - **Orion MPCV: EFT-1 complete — 4.5-hour uncrewed test flight successful**
 
 ## Overview
-Vice President Pence has directed NASA to land Americans on the Moon by 2024, four years earlier than planned. This creates urgency for a commercial landing system and may require new approaches to meet the aggressive schedule.
+NASA has named its lunar return program 'Artemis' — after Apollo's twin sister in Greek mythology. The program aims to land the first woman and next man on the Moon by 2024 using SLS, Orion, and a commercially-developed Human Landing System.

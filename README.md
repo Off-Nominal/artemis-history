@@ -1,40 +1,35 @@
-# Space Launch System & Orion Program
+# Artemis Program
 
-## Background
+NASA's Artemis program aims to land the first woman and next man on the
+Moon by 2024, using the Space Launch System (SLS) rocket and Orion
+spacecraft, along with commercial Human Landing Systems and the Lunar
+Gateway.
 
-Following the Augustine Committee's findings and President Obama's February
-2010 proposal to cancel the Constellation Program, Congress passed the NASA
-Authorization Act of 2010, signed into law on October 11, 2010.
+Named after the Greek goddess of the Moon and twin sister of Apollo, the
+Artemis program was officially named on May 13, 2019 by NASA Administrator
+Jim Bridenstine. The name was suggested by NASA chief economist Alex MacDonald.
 
-## Key Decisions
+## Program Architecture
 
-- Constellation Program's Ares I and Ares V rockets are cancelled
-- NASA directed to develop a new **Space Launch System (SLS)** derived
-  from Space Shuttle and Constellation hardware
-- **Orion spacecraft** retained for missions beyond low Earth orbit
-- $58 billion authorized across FY2011-2013
-- Commercial crew development for ISS access
-
-## Space Launch System
-
-- Heavy-lift launch vehicle
-- Initial Block 1: 70 metric tons to LEO
-- Derived from Shuttle RS-25 engines and 5-segment solid rocket boosters
-- Target first flight: 2017
-
-## Orion Multi-Purpose Crew Vehicle
-
-- Evolved from Constellation-era Orion CEV
-- Capable of deep space missions
-- European Service Module provided by ESA
+- **Space Launch System (SLS)** - Heavy-lift launch vehicle
+- **Orion** - Crew vehicle with ESA-provided European Service Module
+- **Human Landing System (HLS)** - Commercial lunar lander (in procurement)
+- **Lunar Gateway** - Small space station in lunar orbit (planned)
+- **Exploration Ground Systems** - Launch Complex 39B and Mobile Launcher
 
 ## Planned Missions
 
-- **Exploration Mission-1 (EM-1)**: Uncrewed test flight around the Moon
-- **Exploration Mission-2 (EM-2)**: First crewed flight
+- **Artemis I** (formerly EM-1): Uncrewed SLS/Orion test flight around the Moon
+- **Artemis II** (formerly EM-2): First crewed SLS/Orion flight, lunar flyby
+- **Artemis III**: First crewed lunar landing since Apollo 17 (1972)
 
-## Policy Direction (December 2017)
+## Target
 
-Space Policy Directive-1 formally redirects NASA to return humans to
-the Moon as a stepping stone to Mars, emphasizing commercial and
-international partnerships.
+Land humans on the lunar south pole by 2024.
+
+## International & Commercial Partners
+
+- ESA (European Service Module, Gateway contributions)
+- Canadian Space Agency (Gateway robotics - Canadarm3)
+- JAXA (Gateway contributions)
+- Commercial Human Landing System providers (in procurement)
