@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of May 13, 2019
+> As of May 23, 2019
 
 **NASA Administrator:** Jim Bridenstine (13th Administrator)
 **Goal:** Land Americans on the Moon by 2024
@@ -9,6 +9,7 @@
 ## Vehicles
 - **Space Launch System (SLS): EM-1 target now June 2020**
 - **Orion MPCV: EFT-1 complete — 4.5-hour uncrewed test flight successful**
+- **Lunar Gateway: PPE contract awarded to Maxar — launch targeted 2023**
 
 ## Overview
-NASA has named its lunar return program 'Artemis' — after Apollo's twin sister in Greek mythology. The program aims to land the first woman and next man on the Moon by 2024 using SLS, Orion, and a commercially-developed Human Landing System.
+NASA has awarded the Power and Propulsion Element contract for the Lunar Gateway to Maxar Technologies. The Gateway will serve as a small station in lunar orbit for staging surface missions and deep space operations.
