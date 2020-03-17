@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of March 13, 2020
+> As of March 17, 2020
 
 **NASA Administrator:** Jim Bridenstine (13th Administrator)
 **Goal:** Land Americans on the Moon by 2024
@@ -13,4 +13,4 @@
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
 
 ## Overview
-NASA has removed the Gateway from the Artemis III critical path. The first crewed landing will proceed with a direct Orion-to-lander rendezvous without requiring Gateway. This simplifies the Artemis III architecture, though Gateway development continues for later missions.
+An OIG report reveals the Mobile Launcher has hit $693 million (234% over original estimate) and SLS development has reached $14.8 billion. Green Run testing continues at Stennis. The 2024 landing target faces growing schedule pressure.
