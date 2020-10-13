@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of March 17, 2020
+> As of October 13, 2020
 
 **NASA Administrator:** Jim Bridenstine (13th Administrator)
 **Goal:** Land Americans on the Moon by 2024
@@ -12,5 +12,8 @@
 - **Human Landing System: Solicitation issued (NextSTEP-2 Appendix H)**
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
 
+## International Partners
+Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
+
 ## Overview
-An OIG report reveals the Mobile Launcher has hit $693 million (234% over original estimate) and SLS development has reached $14.8 billion. Green Run testing continues at Stennis. The 2024 landing target faces growing schedule pressure.
+The Artemis Accords have been signed by 8 founding nations, establishing principles for peaceful lunar exploration including transparency, interoperability, and space resource utilization. Green Run testing continues, and HLS provider selection is expected soon.
