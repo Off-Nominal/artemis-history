@@ -2,26 +2,25 @@
 
 ## Location: Stennis Space Center, Mississippi
 
-The SLS Artemis I core stage has been installed in the B-2 Test Stand
-at NASA's Stennis Space Center for the "Green Run" test series.
+## Test Campaign Results
 
-## Test Campaign Overview
+Tests 1-7: All completed successfully.
 
-An eight-test sequence to verify integrated core stage systems:
+### Test 8: Hot Fire (January 16, 2021) - ABORTED
 
-1. Modal test
-2. Avionics power-up and software checkout
-3. Thrust vector control (TVC) system test
-4. Main propulsion system leak checks
-5. Engine TVC confidence test (with hydraulic power)
-6. Propellant loading and countdown rehearsal
-7. Fuel and oxidizer replenish operations
-8. **Hot fire test** - Full-duration static fire of all four RS-25 engines
+The culminating hot fire test was conducted but aborted after only
+approximately 67 seconds of a planned 8+ minute burn.
 
-## Status (January 2020)
-Core stage installed in B-2 Test Stand. Test sequence beginning.
+**Cause**: A thrust vector control (TVC) hydraulic system parameter
+exceeded predetermined test limits, triggering an automatic shutdown.
 
-## Purpose
-Verify that the integrated core stage - the largest rocket stage NASA
-has ever produced - functions as designed before shipping to Kennedy
-Space Center for Artemis I integration.
+**Engines**: All four RS-25 engines ignited and ran nominally during
+the 67 seconds of operation.
+
+**Assessment**: NASA determined that the engines and core stage
+performed well during the abbreviated test, but a full-duration retest
+is required before the core stage can be shipped to Kennedy Space
+Center.
+
+## Status
+Preparing for retest. Target date: early March 2021.

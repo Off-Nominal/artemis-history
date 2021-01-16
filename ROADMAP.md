@@ -1,17 +1,16 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of December 9, 2020
+> Forward-looking plan as of January 16, 2021
 
 ## Upcoming Milestones
 
-- **2020–2021**: SLS Green Run hot fire test
-- **2021**: Artemis I — SLS/Orion uncrewed lunar flyby
-- **2022**: HLS provider down-select
-- **~2023**: Artemis II — crewed lunar flyby
-- **2024**: Artemis III — FIRST CREWED LUNAR LANDING (direct rendezvous, no Gateway)
-- **2025+**: Gateway deployment for sustained operations
+- **Early 2021**: Green Run hot fire RETEST
+- **Late 2021**: Artemis I — uncrewed lunar flyby
+- **2022**: HLS provider selection
+- **~2024**: Artemis II — crewed lunar flyby
+- **2025+**: Artemis III — first crewed landing (2024 target increasingly unlikely)
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-Simplified near-term architecture prioritizes the 2024 landing. Gateway supports sustained presence starting mid-decade.
+Near-term focus: complete Green Run and get Artemis I off the ground.
