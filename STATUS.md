@@ -1,8 +1,8 @@
 # Artemis — Program Status
 
-> As of January 16, 2021
+> As of January 20, 2021
 
-**NASA Administrator:** Jim Bridenstine (13th Administrator)
+**NASA Administrator:** Steve Jurczyk (Acting Administrator)
 **Goal:** Land Americans on the Moon by 2024
 **Next Milestone:** Green Run hot fire retest
 
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-The SLS Green Run hot fire aborted after 67 seconds, well short of the planned 8-minute burn. A hydraulic system failure triggered the early shutdown. A retest is required, adding further delay to the Artemis I launch campaign.
+Steve Jurczyk is serving as Acting Administrator following Bridenstine's departure. Bill Nelson has been nominated to lead NASA. Green Run hot fire retest is being planned and HLS provider selection is imminent.
