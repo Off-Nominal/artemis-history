@@ -1,13 +1,13 @@
 # Artemis — Program Status
 
-> As of January 20, 2021
+> As of March 18, 2021
 
 **NASA Administrator:** Steve Jurczyk (Acting Administrator)
 **Goal:** Land Americans on the Moon by 2024
-**Next Milestone:** Green Run hot fire retest
+**Next Milestone:** HLS provider selection; core stage shipment to Kennedy Space Center
 
 ## Vehicles
-- **Space Launch System (SLS): Green Run hot fire aborted at 67 seconds (needed 8+ minutes)**
+- **Space Launch System (SLS): Green Run complete — 8:20 full-duration hot fire. Core stage shipping to KSC.**
 - **Orion MPCV: EFT-1 complete — 4.5-hour uncrewed test flight successful**
 - **Human Landing System: Solicitation issued (NextSTEP-2 Appendix H)**
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-Steve Jurczyk is serving as Acting Administrator following Bridenstine's departure. Bill Nelson has been nominated to lead NASA. Green Run hot fire retest is being planned and HLS provider selection is imminent.
+The SLS core stage has completed a full-duration hot fire of 8 minutes 20 seconds, clearing the final major test milestone. The core stage will ship to KSC for Artemis I integration.

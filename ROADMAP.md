@@ -1,16 +1,16 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of January 20, 2021
+> Forward-looking plan as of March 18, 2021
 
 ## Upcoming Milestones
 
-- **Early 2021**: Green Run hot fire RETEST
+- **Mid-2021**: Ship SLS core stage to Kennedy Space Center
 - **Late 2021**: Artemis I — uncrewed lunar flyby
-- **2022**: HLS provider selection
+- **2021**: HLS provider selection
 - **~2024**: Artemis II — crewed lunar flyby
-- **2025+**: Artemis III — first crewed landing (2024 target increasingly unlikely)
+- **2025+**: Artemis III — first crewed landing
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-Near-term focus: complete Green Run and get Artemis I off the ground.
+Green Run success clears a major hurdle — focus shifts to Artemis I integration and HLS.
