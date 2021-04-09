@@ -113,3 +113,16 @@ destination officially pivots back to the Moon. The Moon is now the
 near-term goal, Mars the long-term aspiration -- essentially returning
 to the Bush-era framework but with commercial and international
 partnerships emphasized.
+
+## April 9, 2021 - Artemis Goal: "First Woman and First Person of Color"
+
+**Decision-maker**: Biden administration
+
+The Biden administration expands the Artemis inclusion goals. The
+program will now land "the first woman and the first person of color"
+on the Moon, replacing the previous "first woman and the next man"
+language from the Trump-era Pence announcement.
+
+Acting NASA Administrator Steve Jurczyk confirms the updated goal.
+The language is subsequently expanded further to include "first
+international partner astronaut."

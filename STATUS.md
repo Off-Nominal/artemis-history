@@ -1,9 +1,9 @@
 # Artemis — Program Status
 
-> As of March 18, 2021
+> As of April 9, 2021
 
 **NASA Administrator:** Steve Jurczyk (Acting Administrator)
-**Goal:** Land Americans on the Moon by 2024
+**Goal:** Land the first woman and first person of color on the Moon
 **Next Milestone:** HLS provider selection; core stage shipment to Kennedy Space Center
 
 ## Vehicles
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-The SLS core stage has completed a full-duration hot fire of 8 minutes 20 seconds, clearing the final major test milestone. The core stage will ship to KSC for Artemis I integration.
+NASA has updated the Artemis goal to land 'the first woman and first person of color' on the Moon. Green Run is complete and the core stage is preparing for shipment to KSC.
