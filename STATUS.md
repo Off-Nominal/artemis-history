@@ -1,8 +1,8 @@
 # Artemis — Program Status
 
-> As of April 16, 2021
+> As of May 3, 2021
 
-**NASA Administrator:** Steve Jurczyk (Acting Administrator)
+**NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
 **Next Milestone:** Ship SLS core stage to KSC; begin Artemis I integration
 
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-NASA has selected SpaceX as the sole HLS provider for $2.89 billion, choosing Starship HLS over Blue Origin and Dynetics. The single-award decision, driven by congressional funding below NASA's request, has prompted immediate bid protests.
+Bill Nelson, former Senator and Shuttle astronaut, has been sworn in as NASA's 14th Administrator. He inherits a completed SLS Green Run, an HLS contract under protest, and an Artemis I launch date to set.
