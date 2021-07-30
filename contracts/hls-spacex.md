@@ -40,3 +40,16 @@ SpaceX will develop a lunar-optimized variant of their Starship vehicle.
 - Dynetics (DHLS)
 
 Both teams filed bid protests with the GAO.
+
+## Bid Protest Resolution
+
+### GAO Decision (July 30, 2021)
+The Government Accountability Office denies both the Blue Origin and
+Dynetics bid protests, upholding NASA's selection of SpaceX as the
+sole HLS provider.
+
+Key findings:
+- NASA's evaluation was reasonable and consistent with solicitation terms
+- The decision to make a single award was within NASA's discretion
+- NASA had notified offerors that the number of awards could be reduced
+  based on available funding

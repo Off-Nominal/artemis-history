@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of May 3, 2021
+> As of July 30, 2021
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-Bill Nelson, former Senator and Shuttle astronaut, has been sworn in as NASA's 14th Administrator. He inherits a completed SLS Green Run, an HLS contract under protest, and an Artemis I launch date to set.
+The GAO has denied both Blue Origin and Dynetics bid protests, upholding NASA's selection of SpaceX. Blue Origin may pursue legal action. SLS integration for Artemis I continues at KSC.
