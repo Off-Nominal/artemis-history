@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of July 30, 2021
+> As of November 4, 2021
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-The GAO has denied both Blue Origin and Dynetics bid protests, upholding NASA's selection of SpaceX. Blue Origin may pursue legal action. SLS integration for Artemis I continues at KSC.
+The Court of Federal Claims has dismissed Blue Origin's HLS lawsuit, clearing all legal obstacles to SpaceX's HLS work. All challenges to NASA's selection have been resolved in SpaceX's favor.

@@ -53,3 +53,11 @@ Key findings:
 - The decision to make a single award was within NASA's discretion
 - NASA had notified offerors that the number of awards could be reduced
   based on available funding
+
+### Court of Federal Claims (November 4, 2021)
+Blue Origin's lawsuit challenging the HLS award is dismissed by the
+U.S. Court of Federal Claims, clearing all legal obstacles for SpaceX's
+HLS contract to proceed.
+
+Blue Origin CEO Bob Smith states the company will continue to work with
+NASA on future lunar landing opportunities.
