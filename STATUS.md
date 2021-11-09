@@ -1,10 +1,10 @@
 # Artemis — Program Status
 
-> As of November 4, 2021
+> As of November 9, 2021
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
-**Goal:** Land the first woman and first person of color on the Moon
-**Next Milestone:** Ship SLS core stage to KSC; begin Artemis I integration
+**Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
+**Next Milestone:** Artemis I uncrewed launch; revised landing timeline TBD
 
 ## Vehicles
 - **Space Launch System (SLS): Green Run complete — 8:20 full-duration hot fire. Core stage shipping to KSC.**
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-The Court of Federal Claims has dismissed Blue Origin's HLS lawsuit, clearing all legal obstacles to SpaceX's HLS work. All challenges to NASA's selection have been resolved in SpaceX's favor.
+NASA has acknowledged that the 2024 lunar landing target is no longer feasible due to HLS development timelines, funding shortfalls, and the months-long protest delay. A new target date has not been set. Artemis I integration continues at KSC.

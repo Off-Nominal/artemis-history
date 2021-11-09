@@ -38,3 +38,32 @@ establishes a new launch readiness date.
 This represents a 19-month slip from the November 2018 commitment,
 though internally the schedule had been under pressure since 2016
 when Boeing's contract was modified to extend the target to mid-2018.
+
+## Artemis III (Crewed Landing)
+
+### November 9, 2021 - 2024 Landing Target Formally Abandoned
+
+Administrator Bill Nelson states at a press conference:
+"The Trump administration's target of 2024 human landing was not
+grounded in technical feasibility."
+
+NASA officially shifts the crewed landing target to "no earlier than 2025."
+
+Contributing factors:
+- xEMU spacesuit delays (OIG: not ready until April 2025 at earliest)
+- Blue Origin HLS lawsuit imposed ~7-month standstill on the program
+- COVID-19 impacts on development timelines
+- Congressional underfunding relative to what 2024 required
+
+### August 10, 2021 - OIG Spacesuit Report (IG-21-025)
+The OIG found NASA had spent $420 million on spacesuit development
+with the flight-ready xEMU still approximately 4 years away, making
+a 2024 landing "not feasible."
+
+### November 15, 2021 - OIG Artemis Management Report (IG-22-003)
+Key findings:
+- Estimated cost of $4.1 billion per SLS/Orion launch (Artemis I-IV)
+- Projected $93 billion total Artemis spending through FY 2025
+- Predicted landing would slip to "2026 at the earliest"
+
+**New landing target**: No earlier than 2025 (later to slip further)
