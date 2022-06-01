@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of November 9, 2021
+> As of June 1, 2022
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-NASA has acknowledged that the 2024 lunar landing target is no longer feasible due to HLS development timelines, funding shortfalls, and the months-long protest delay. A new target date has not been set. Artemis I integration continues at KSC.
+NASA has awarded $3.5 billion in xEVAS spacesuit contracts to Axiom Space and Collins Aerospace for Artemis moonwalks and ISS operations. Artemis I integration continues.
