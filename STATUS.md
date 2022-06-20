@@ -1,13 +1,13 @@
 # Artemis — Program Status
 
-> As of June 1, 2022
+> As of June 20, 2022
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
-**Next Milestone:** Artemis I uncrewed launch; revised landing timeline TBD
+**Next Milestone:** Artemis I launch
 
 ## Vehicles
-- **Space Launch System (SLS): Green Run complete — 8:20 full-duration hot fire. Core stage shipping to KSC.**
+- **Space Launch System (SLS): Wet dress rehearsal complete after 4 attempts — ready for launch**
 - **Orion MPCV: EFT-1 complete — 4.5-hour uncrewed test flight successful**
 - **Human Landing System: SpaceX Starship HLS selected — $2.89B contract**
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-NASA has awarded $3.5 billion in xEVAS spacesuit contracts to Axiom Space and Collins Aerospace for Artemis moonwalks and ISS operations. Artemis I integration continues.
+Artemis I has completed wet dress rehearsal after four attempts. Hydrogen leaks and other issues were resolved. The vehicle is now cleared for launch. The uncrewed mission will send Orion around the Moon for up to 42 days.
