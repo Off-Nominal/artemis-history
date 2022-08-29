@@ -22,3 +22,14 @@ toward launch.
 
 ## Launch Window
 Targeting August-September 2022.
+
+## Launch Attempt 1: August 29, 2022
+
+SCRUBBED. During the countdown, Engine 3 (one of four RS-25s) showed a
+temperature reading that exceeded the maximum allowable limit for launch
+commit. The engine bleed procedure did not bring the temperature within
+acceptable range before the two-hour launch window expired.
+
+Additional factor: fueling was delayed by offshore thunderstorms.
+
+Next attempt scheduled for September 3, 2022.

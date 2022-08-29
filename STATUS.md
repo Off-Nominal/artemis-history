@@ -1,10 +1,10 @@
 # Artemis — Program Status
 
-> As of June 20, 2022
+> As of August 29, 2022
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
-**Next Milestone:** Artemis I launch
+**Next Milestone:** Artemis I launch attempt 2
 
 ## Vehicles
 - **Space Launch System (SLS): Wet dress rehearsal complete after 4 attempts — ready for launch**
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-Artemis I has completed wet dress rehearsal after four attempts. Hydrogen leaks and other issues were resolved. The vehicle is now cleared for launch. The uncrewed mission will send Orion around the Moon for up to 42 days.
+The first Artemis I launch attempt was scrubbed due to a sensor issue on RS-25 engine #3 preventing proper thermal conditioning. The team is evaluating data for the next window.
