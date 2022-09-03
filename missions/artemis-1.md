@@ -33,3 +33,13 @@ acceptable range before the two-hour launch window expired.
 Additional factor: fueling was delayed by offshore thunderstorms.
 
 Next attempt scheduled for September 3, 2022.
+
+## Launch Attempt 2: September 3, 2022
+
+SCRUBBED. A persistent liquid hydrogen leak was detected in an 8-inch
+quick-disconnect fitting at the base of the core stage during propellant
+loading. Multiple attempts to reseat the seal were unsuccessful.
+
+NASA decides to roll SLS back to the Vehicle Assembly Building for
+repairs. The rocket also weathers Hurricane Ian in the VAB during
+September-October.
