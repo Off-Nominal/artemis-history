@@ -1,14 +1,15 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of November 15, 2022
+> Forward-looking plan as of November 16, 2022
 
 ## Upcoming Milestones
 
-- **Late 2022**: Artemis I LAUNCH — pending hydrogen leak repair
-- **2024**: Artemis II crewed lunar flyby
-- **2025–2026**: Artemis III — first crewed lunar landing
+- **December 2022**: Artemis I splashdown and recovery (in flight now)
+- **Late 2024**: Artemis II — first crewed SLS/Orion lunar flyby
+- **2025–2026**: Artemis III — first crewed lunar landing with Starship HLS
+- **2025+**: Gateway PPE + HALO launch
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-Two scrubs. Hydrogen leak repair needed. Launch now likely November 2022 at earliest.
+SLS has proven itself. If Artemis I completes successfully, the path to crewed lunar missions is clear.
