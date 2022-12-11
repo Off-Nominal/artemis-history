@@ -52,3 +52,14 @@
 Artemis I validates the integrated SLS/Orion system for deep space
 operations, clearing the path for Artemis II (first crewed flight)
 and Artemis III (lunar landing).
+
+## Mission Result: FULL SUCCESS
+
+Artemis I concluded on December 11, 2022 when Orion splashed down in the
+Pacific Ocean west of Baja California near Guadalupe Island at 12:40 PM EST.
+
+The USS Portland recovered the capsule. Total mission duration: 25 days,
+10 hours, 53 minutes.
+
+All primary mission objectives achieved. SLS and Orion performed beyond
+expectations, validating the system for crewed flights.
