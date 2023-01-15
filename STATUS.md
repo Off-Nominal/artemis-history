@@ -1,10 +1,10 @@
 # Artemis — Program Status
 
-> As of December 11, 2022
+> As of January 15, 2023
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
-**Next Milestone:** Post-flight analysis; Artemis II crew announcement
+**Next Milestone:** Heat shield investigation; Artemis II crew announcement
 
 ## Vehicles
 - **Space Launch System (SLS): Flight-proven**
@@ -16,4 +16,4 @@
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-Artemis I is complete. Orion splashed down after a 25.5-day mission that took it farther than any human-rated spacecraft has traveled. SLS, Orion, and the European Service Module performed across all mission phases. Post-flight analysis — including heat shield performance — will inform Artemis II planning.
+NASA has opened an investigation into unexpected char loss on Orion's AVCOAT heat shield during Artemis I reentry. While the spacecraft returned safely, the anomalous material loss patterns must be understood before committing a crew to the same reentry profile.
