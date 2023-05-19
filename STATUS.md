@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of April 20, 2023
+> As of May 19, 2023
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon (2024 target abandoned)
@@ -9,11 +9,11 @@
 ## Vehicles
 - **Space Launch System (SLS): Flight-proven**
 - **Orion MPCV: Artemis II crew named — Wiseman, Glover, Koch, Hansen (CSA)**
-- **Human Landing System: SpaceX Starship HLS — IFT-1 completed (vehicle lost after max-Q)**
+- **Human Landing System: SpaceX Starship HLS (Artemis III/IV) + Blue Origin Blue Moon MK2 (Artemis V)**
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
 
 ## International Partners
 Artemis Accords: 8 founding nations (U.S., Australia, Canada, Italy, Japan, Luxembourg, UAE, UK)
 
 ## Overview
-SpaceX conducted the first integrated Starship flight test. All 33 Raptor engines fired, but multiple failed during ascent and the vehicle was destroyed by the flight termination system. HLS development continues alongside the Starship test campaign.
+NASA has awarded Blue Origin $3.4B to develop Blue Moon MK2 as a second HLS provider for Artemis V+. The dual-provider approach ensures competition and reduces single-point dependency. SpaceX continues Starship flight testing for Artemis III/IV.
