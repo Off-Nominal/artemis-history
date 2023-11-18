@@ -15,3 +15,17 @@ System timeline. Each test advances capabilities needed for HLS.
 
 **HLS relevance**: Demonstrated need for significant launch pad
 reinforcement and engine reliability improvements.
+
+## IFT-2 - November 18, 2023
+
+**Result**: PARTIAL SUCCESS
+
+- All 33 Raptor engines fired successfully at liftoff (first time)
+- First successful hot-staging separation of Super Heavy and Starship
+- Booster 9 lost during boostback burn (engine shutdowns; terminated
+  over Gulf of Mexico)
+- Ship 25 became the first Starship to reach space
+- Ship lost near end of ascent burn
+
+**HLS relevance**: Validated hot-staging, demonstrated all-engine
+ignition reliability. Starship reached space for the first time.
