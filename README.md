@@ -6,27 +6,28 @@ spacecraft, commercial Human Landing Systems, and the Lunar Gateway.
 
 Named after the Greek goddess of the Moon and twin sister of Apollo.
 
-## Artemis I - COMPLETE (November 16 - December 11, 2022)
+## Mission Status
 
-First integrated flight of SLS and Orion. Uncrewed 25.5-day mission sent
-Orion 268,563 miles from Earth in a distant retrograde orbit around the
-Moon. Full success.
+### Artemis I - COMPLETE (Nov 16 - Dec 11, 2022)
+Uncrewed 25.5-day test flight. Full success. Heat shield anomaly
+under investigation.
+
+### Artemis II - September 2025 (delayed from late 2024)
+First crewed flight. Crew: Wiseman, Glover, Koch, Hansen.
+
+### Artemis III - September 2026 (delayed from late 2025)
+First crewed lunar landing since Apollo 17.
 
 ## Program Architecture
 
 - **Space Launch System (SLS)** - Heavy-lift launch vehicle (flight proven)
 - **Orion** - Crew vehicle with ESA European Service Module (flight proven)
-- **Human Landing System** - SpaceX Starship HLS (in development)
+- **Human Landing System** - SpaceX Starship HLS / Blue Origin Blue Moon MK2
 - **Lunar Gateway** - Lunar orbital station (in development)
 - **xEVAS Spacesuits** - Axiom AxEMU for lunar surface (in development)
 
-## Upcoming Missions
-
-- **Artemis II**: First crewed SLS/Orion flight, lunar flyby (~2024)
-- **Artemis III**: First crewed lunar landing since Apollo 17 (~2025)
-
-## Artemis Accords
-
-International framework for lunar exploration cooperation.
-Signatories: US, Australia, Canada, Italy, Japan, Luxembourg, UAE, UK,
-and growing.
+## Key Challenges
+- Heat shield investigation ongoing
+- Orion ECLSS issues being resolved
+- HLS development depends on Starship flight test progress
+- Gateway PPE/HALO integration in progress

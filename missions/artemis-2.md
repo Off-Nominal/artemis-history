@@ -1,11 +1,19 @@
 # Artemis II
 
-## Crew Announced: April 3, 2023
+## SCHEDULE UPDATE: January 9, 2024
 
-NASA announces the four-member Artemis II crew during the "State of NASA"
-address at Ellington Field, Houston.
+NASA announces delays to Artemis missions:
+- **Artemis II**: Delayed from late 2024 to **September 2025**
+- **Artemis III**: Delayed from late 2025 to **September 2026**
 
-### Crew
+### Reasons for Delay
+1. Ongoing heat shield investigation from Artemis I anomaly
+2. ECLSS (Environmental Control and Life Support) issues discovered
+   during Artemis III unit testing
+3. Battery durability concerns for extreme abort scenarios
+4. Need for additional testing and analysis before risking crew
+
+## Crew
 
 | Role | Name | Agency |
 |------|------|--------|
@@ -14,19 +22,13 @@ address at Ellington Field, Houston.
 | Mission Specialist 1 | Christina Koch | NASA |
 | Mission Specialist 2 | Jeremy Hansen | CSA |
 
-### Notable Firsts
-- Jeremy Hansen will be the first non-American on a lunar mission
-- Christina Koch set the record for longest single spaceflight by a woman
-  (328 days on ISS, 2019-2020)
-- Victor Glover was the first Black astronaut on a long-duration ISS mission
-
 ## Mission Profile
 
 - First crewed flight of SLS and Orion
 - Approximately 10-day mission
-- Lunar flyby trajectory (not entering lunar orbit)
-- Tests all Orion life support and crew systems in deep space environment
-- Will not dock with Gateway or land on the Moon
+- Lunar flyby trajectory
+- Tests all crew systems in deep space
+- Will not dock with Gateway or land on Moon
 
 ## Target Launch
-Late 2024 (pending heat shield investigation outcome)
+September 2025
