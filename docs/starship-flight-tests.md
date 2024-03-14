@@ -29,3 +29,20 @@ reinforcement and engine reliability improvements.
 
 **HLS relevance**: Validated hot-staging, demonstrated all-engine
 ignition reliability. Starship reached space for the first time.
+
+## IFT-3 - March 14, 2024
+
+**Result**: PARTIAL SUCCESS
+
+- All 33 Raptors nominal at liftoff
+- Successful hot-staging separation
+- Ship 28 completed full-duration ascent burn, reaching near-orbital velocity
+- First Starship to achieve orbital-class speed
+- Demonstrated in-space propellant transfer between internal tanks
+- Booster failed to reignite for landing (exploded at ~462m altitude)
+- Ship broke up during reentry over Indian Ocean
+
+**HLS relevance**: Critical milestone - first propellant transfer
+demonstration in space, directly relevant to HLS refueling architecture.
+Orbital velocity achievement shows Starship can reach the energy levels
+needed for lunar missions.
