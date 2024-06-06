@@ -46,3 +46,17 @@ ignition reliability. Starship reached space for the first time.
 demonstration in space, directly relevant to HLS refueling architecture.
 Orbital velocity achievement shows Starship can reach the energy levels
 needed for lunar missions.
+
+## IFT-4 - June 6, 2024
+
+**Result**: MAJOR SUCCESS
+
+- First flight where both stages achieved controlled reentries
+- Booster 11 performed a powered soft splashdown in Gulf of Mexico
+- Ship 29 survived reentry heating and performed soft splashdown in
+  Indian Ocean
+- Demonstrated landing burn capability for both stages
+
+**HLS relevance**: Controlled reentry and soft landing capability
+demonstrated for both stages. Critical precursor to booster recovery
+and ship landing precision needed for lunar missions.
