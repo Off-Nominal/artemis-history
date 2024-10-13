@@ -60,3 +60,19 @@ needed for lunar missions.
 **HLS relevance**: Controlled reentry and soft landing capability
 demonstrated for both stages. Critical precursor to booster recovery
 and ship landing precision needed for lunar missions.
+
+## IFT-5 - October 13, 2024
+
+**Result**: LANDMARK SUCCESS
+
+- Super Heavy Booster 12 returned to launch site and was CAUGHT by the
+  "chopstick" arms of the launch tower ("Mechazilla")
+- First-ever booster catch - a feat never before achieved in spaceflight
+- Ship 30 reached apogee of 212 km
+- Ship performed controlled splashdown in Indian Ocean with high accuracy
+- Most significant Starship test to date
+
+**HLS relevance**: Booster catch enables rapid reusability, critical for
+the high launch cadence needed to refuel Starship HLS in orbit. Each
+HLS lunar mission requires multiple tanker launches; rapid turnaround
+of boosters is essential to the architecture.
