@@ -1,13 +1,13 @@
 # Artemis — Program Status
 
-> As of October 13, 2024
+> As of November 20, 2024
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
-**Next Milestone:** Artemis II crewed flyby (September 2025); Artemis III landing (September 2026)
+**Next Milestone:** Complete Artemis II stacking; heat shield fix verification
 
 ## Vehicles
-- **Space Launch System (SLS): Flight-proven**
+- **Space Launch System (SLS): Artemis II stacking begun at VAB**
 - **Orion MPCV: Artemis II delayed to September 2025**
 - **Human Landing System: SpaceX Starship HLS — IFT-5: FIRST BOOSTER CATCH by launch tower**
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
@@ -16,4 +16,4 @@
 Artemis Accords: ~33 signatory nations
 
 ## Overview
-SpaceX has caught a Super Heavy booster with the launch tower's mechanical arms for the first time — a historic achievement demonstrating the rapid reusability central to Starship's architecture and HLS economics.
+SLS stacking for Artemis II has begun at the Vehicle Assembly Building, with solid rocket booster segments being placed on the mobile launcher. The heat shield root cause is expected soon.

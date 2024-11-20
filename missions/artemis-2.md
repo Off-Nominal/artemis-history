@@ -32,3 +32,13 @@ NASA announces delays to Artemis missions:
 
 ## Target Launch
 September 2025
+
+## Vehicle Assembly
+
+### SLS Stacking Begins: November 20, 2024
+Engineers begin stacking the SLS solid rocket boosters for Artemis II at
+Kennedy Space Center's Vehicle Assembly Building.
+
+- First segment: Left aft assembly of the solid rocket booster
+- Stacked onto Mobile Launcher 1
+- Full booster stacking expected to take several months
