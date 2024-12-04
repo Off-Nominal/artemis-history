@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of November 20, 2024
+> As of December 4, 2024
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: ~33 signatory nations
 
 ## Overview
-SLS stacking for Artemis II has begun at the Vehicle Assembly Building, with solid rocket booster segments being placed on the mobile launcher. The heat shield root cause is expected soon.
+President-elect Trump has nominated Jared Isaacman as NASA Administrator. The billionaire entrepreneur commanded the Inspiration4 and Polaris Dawn missions. Confirmation is expected after inauguration. Artemis II stacking continues.
