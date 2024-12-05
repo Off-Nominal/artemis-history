@@ -1,34 +1,39 @@
-# Orion Heat Shield Anomaly Investigation
+# Orion Heat Shield Investigation - FINDINGS
 
-## Discovery (Late 2022)
+## Root Cause Identified: December 5, 2024
 
-During post-recovery inspection of the Artemis I Orion capsule, engineers
-discovered unexpected loss of charred material on the AVCOAT heat shield.
+NASA presents findings from an extensive investigation involving over
+100 tests at facilities across the country.
 
-## Observations
+## Root Cause
 
-- AVCOAT ablative material cracked and broke off in an uneven pattern
-- The material loss was not predicted by pre-flight models
-- Charring patterns were inconsistent with thermal modeling expectations
-- Some areas showed more ablation than predicted, others less
+The AVCOAT heat shield material lacked sufficient **permeability**, causing
+internal gas pressure to build up during the skip reentry maneuver. This
+pressure buildup led to cracking and uneven shedding of charred material.
 
-## AVCOAT Heat Shield
+The skip reentry profile - where Orion briefly exits and re-enters the
+atmosphere - exposed the heat shield to a specific temperature range for a
+duration that exacerbated the gas trapping phenomenon.
 
-- Ablative thermal protection system
-- Made of individual blocks ("billets") of AVCOAT material bonded to
-  the heat shield carrier structure
-- Designed to char and ablate during reentry, carrying heat away
-- Heritage: Apollo-era material, reformulated for Orion
+## Testing Campaign
 
-## Investigation
+- Hypersonic wind tunnel campaigns at NASA Langley Research Center
+- CUBRC facility in Buffalo, NY
+- Arc jet tests at NASA Ames Research Center
+- Material analysis at multiple laboratories
+- Over 100 individual tests conducted
+- Independent review team oversight
 
-NASA initiates a comprehensive investigation to understand:
-1. Root cause of unexpected material behavior
-2. Whether the heat shield maintained adequate margins of safety
-3. Implications for Artemis II (crewed mission) heat shield design
-4. Whether the skip reentry profile contributed to the anomaly
+## Corrective Actions
 
-## Impact
+1. **Material fix**: Modify AVCOAT billet mold loading process to increase
+   material permeability for future heat shields
+2. **Trajectory modification**: Change Artemis II reentry trajectory to
+   limit time spent in the temperature range that caused the phenomenon
+3. **Artemis II heat shield**: Already manufactured with original process,
+   but trajectory modification provides adequate margin
 
-The investigation may affect the Artemis II schedule as NASA works to
-ensure crew safety for the first crewed flight.
+## Updated Schedule
+
+- **Artemis II**: April 2026
+- **Artemis III**: Mid-2027

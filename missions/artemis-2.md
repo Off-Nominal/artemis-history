@@ -1,17 +1,14 @@
 # Artemis II
 
-## SCHEDULE UPDATE: January 9, 2024
+## SCHEDULE UPDATE: December 5, 2024
 
-NASA announces delays to Artemis missions:
-- **Artemis II**: Delayed from late 2024 to **September 2025**
-- **Artemis III**: Delayed from late 2025 to **September 2026**
+Following completion of the heat shield investigation, NASA updates the
+Artemis mission schedule:
+- **Artemis II**: Now targeting **April 2026**
+- **Artemis III**: Now targeting **mid-2027**
 
-### Reasons for Delay
-1. Ongoing heat shield investigation from Artemis I anomaly
-2. ECLSS (Environmental Control and Life Support) issues discovered
-   during Artemis III unit testing
-3. Battery durability concerns for extreme abort scenarios
-4. Need for additional testing and analysis before risking crew
+The additional delay beyond September 2025 allows time to implement
+trajectory modifications based on heat shield findings.
 
 ## Crew
 
@@ -26,19 +23,18 @@ NASA announces delays to Artemis missions:
 
 - First crewed flight of SLS and Orion
 - Approximately 10-day mission
-- Lunar flyby trajectory
-- Tests all crew systems in deep space
-- Will not dock with Gateway or land on Moon
-
-## Target Launch
-September 2025
+- Modified reentry trajectory to address heat shield findings
+- Lunar flyby (no orbit insertion, no landing)
+- Tests all crew systems in deep space environment
 
 ## Vehicle Assembly
+- SLS stacking began November 20, 2024 at KSC VAB
+- Booster stacking in progress
 
-### SLS Stacking Begins: November 20, 2024
-Engineers begin stacking the SLS solid rocket boosters for Artemis II at
-Kennedy Space Center's Vehicle Assembly Building.
+## Key Technical Changes
+- Reentry trajectory modified to reduce time in critical temperature range
+- Heat shield permeability fix applied to future shields (Artemis III+)
+- Additional ECLSS testing and validation completed
 
-- First segment: Left aft assembly of the solid rocket booster
-- Stacked onto Mobile Launcher 1
-- Full booster stacking expected to take several months
+## Target Launch
+April 2026

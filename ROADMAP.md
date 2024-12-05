@@ -1,16 +1,17 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of December 4, 2024
+> Forward-looking plan as of December 5, 2024
 
 ## Upcoming Milestones
 
+- **Mid-2025**: Complete Artemis II heat shield modifications
 - **September 2025**: Artemis II — crewed lunar flyby
-- **September 2026**: Artemis III — first crewed lunar landing (Starship HLS)
-- **~2027**: Artemis IV — second crewed landing (SpaceX Option B)
-- **~2028**: Artemis V — Blue Origin Blue Moon MK2 landing
-- **2025+**: Gateway PPE + HALO launch
+- **September 2026**: Artemis III — first crewed lunar landing
+- **~2027**: Artemis IV
+- **~2028**: Artemis V (Blue Origin lander)
+- **2025–2026**: Gateway PPE + HALO launch
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-The cadence slows but the plan holds. Two lander providers, Gateway, and sustained operations leading to Mars.
+Major technical uncertainty resolved. Focus shifts to completing Artemis II and advancing HLS.
