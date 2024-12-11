@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of December 5, 2024
+> As of December 11, 2024
 
 **NASA Administrator:** Bill Nelson (14th Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
@@ -13,7 +13,7 @@
 - **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
 
 ## International Partners
-Artemis Accords: ~33 signatory nations
+Artemis Accords: 50 signatory nations
 
 ## Overview
-NASA has identified the Artemis I heat shield anomaly root cause: AVCOAT permeability allowed gases to penetrate and create unexpected char loss. Fixes are being implemented for Artemis II. This removes a major uncertainty from the crewed mission timeline.
+The Artemis Accords have reached 50 signatory nations. Heat shield root cause is identified, Artemis II stacking continues, and Isaacman's nomination awaits the new Congress.

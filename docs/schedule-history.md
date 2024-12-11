@@ -67,3 +67,21 @@ Key findings:
 - Predicted landing would slip to "2026 at the earliest"
 
 **New landing target**: No earlier than 2025 (later to slip further)
+
+## Artemis Accords Milestones
+
+### December 11, 2024 - 50 Signatories Reached
+Panama and Austria become the 49th and 50th signatories of the Artemis
+Accords, followed by Liechtenstein as the 52nd.
+
+Artemis Accords nations now represent a majority of UN Committee on the
+Peaceful Uses of Outer Space (COPUOS) members, giving the framework
+significant weight in international space governance.
+
+Key milestones:
+- 8 founding nations (October 2020)
+- ~21 nations (September 2022)
+- 27 nations with India (June 2023)
+- 40 nations with Lithuania (May 2024)
+- 50 nations with Panama and Austria (December 2024)
+- 61 nations with Oman (January 2026)
