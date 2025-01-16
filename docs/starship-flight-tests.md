@@ -76,3 +76,32 @@ and ship landing precision needed for lunar missions.
 the high launch cadence needed to refuel Starship HLS in orbit. Each
 HLS lunar mission requires multiple tanker launches; rapid turnaround
 of boosters is essential to the architecture.
+
+## IFT-6 - November 19, 2024
+
+**Result**: MIXED
+
+- Final Block 1 Starship configuration
+- Booster 13 catch aborted due to loss of tower communications;
+  performed pre-planned divert to Gulf splashdown
+- Ship 31 survived reentry and splashed down in Indian Ocean
+- First in-space Raptor engine reignition (deorbit capability)
+
+## IFT-7 - January 16, 2025
+
+**Result**: BOOSTER SUCCESS / SHIP LOST
+
+- First Block 2 Starship
+- Booster 14 successfully caught by tower arms (second catch)
+- Ship 33 lost approximately 8.5 minutes after launch
+- Explosion occurred over Turks and Caicos Islands
+- Debris scattered across Caribbean
+- FAA ordered mishap investigation (grounded Starship)
+- Investigation closed March 31, 2025
+- Root cause: "stronger than anticipated vibrations" led to propulsion
+  hardware failure
+- SpaceX implemented 11 corrective actions
+
+**HLS relevance**: Block 2 ship design requires modification. Booster
+catch capability confirmed as repeatable. FAA grounding delays HLS
+development timeline.
