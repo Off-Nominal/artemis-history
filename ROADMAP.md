@@ -1,17 +1,16 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of January 16, 2025
+> Forward-looking plan as of January 20, 2025
 
 ## Upcoming Milestones
 
-- **Mid-2025**: Complete Artemis II heat shield modifications
+- **Q1–Q2 2025**: Complete Artemis II vehicle stacking
 - **September 2025**: Artemis II — crewed lunar flyby
 - **September 2026**: Artemis III — first crewed lunar landing
-- **~2027**: Artemis IV
-- **~2028**: Artemis V (Blue Origin lander)
+- **~2027–2028**: Artemis IV and V
 - **2025–2026**: Gateway PPE + HALO launch
 - **2030s**: Mars
 
 ## Long-Term Vision
 
-Major technical uncertainty resolved. Focus shifts to completing Artemis II and advancing HLS.
+Artemis II stacking underway. Pending administrator confirmation and potential program review.

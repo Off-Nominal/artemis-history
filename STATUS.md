@@ -1,8 +1,8 @@
 # Artemis — Program Status
 
-> As of January 16, 2025
+> As of January 20, 2025
 
-**NASA Administrator:** Bill Nelson (14th Administrator)
+**NASA Administrator:** Janet Petro (Acting Administrator)
 **Goal:** Land the first woman and first person of color on the Moon
 **Next Milestone:** Complete Artemis II stacking; heat shield fix verification
 
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-Starship IFT-7 achieved a second booster catch, but Ship 33 was lost during ascent with debris falling over the Caribbean, triggering an FAA investigation. The failure raises reliability questions for crewed HLS missions.
+Janet Petro, KSC Director, is the first woman to serve as NASA's top leader. She manages Artemis II preparations while the Isaacman nomination stalls in the Senate. DOGE workforce reviews create uncertainty across NASA centers.
