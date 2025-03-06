@@ -105,3 +105,33 @@ of boosters is essential to the architecture.
 **HLS relevance**: Block 2 ship design requires modification. Booster
 catch capability confirmed as repeatable. FAA grounding delays HLS
 development timeline.
+
+## IFT-8 - March 6, 2025
+
+**Result**: BOOSTER SUCCESS / SHIP LOST
+
+- Booster 15 successfully caught by tower (third catch)
+- Ship 34: Four of six Raptor engines experienced premature shutdowns
+  during ascent burn (~T+8:04)
+- Loss of attitude control and telemetry
+- Vehicle broke up over Caribbean; debris visible from Bahamas, Florida,
+  Jamaica, and Turks and Caicos
+- Root cause: "energetic event" in aft engine bay damaged multiple Raptors
+
+**HLS relevance**: Two consecutive ship losses raise questions about Block 2
+upper stage reliability. Booster catch now demonstrated three times. Ship
+reliability must improve significantly before NASA can approve HLS for
+crewed missions.
+
+## Summary of Flight Test Progress
+
+| Test | Date | Booster | Ship | Key Achievement |
+|------|------|---------|------|-----------------|
+| IFT-1 | Apr 2023 | Lost | Lost | First integrated flight |
+| IFT-2 | Nov 2023 | Lost | Lost | All 33 engines, reached space |
+| IFT-3 | Mar 2024 | Lost | Lost | Orbital velocity, prop transfer |
+| IFT-4 | Jun 2024 | Splashdown | Splashdown | Both stages controlled reentry |
+| IFT-5 | Oct 2024 | CAUGHT | Splashdown | First booster catch |
+| IFT-6 | Nov 2024 | Splashdown | Splashdown | Raptor reignition in space |
+| IFT-7 | Jan 2025 | CAUGHT | Lost | Second catch; ship debris event |
+| IFT-8 | Mar 2025 | CAUGHT | Lost | Third catch; second ship loss |
