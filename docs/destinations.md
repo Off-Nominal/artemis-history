@@ -126,3 +126,17 @@ language from the Trump-era Pence announcement.
 Acting NASA Administrator Steve Jurczyk confirms the updated goal.
 The language is subsequently expanded further to include "first
 international partner astronaut."
+
+## March 14-16, 2025 - Inclusion Language Removed from Artemis
+
+**Decision-maker**: Trump administration (second term)
+
+NASA removes the "first woman, first person of color" language from
+Artemis program websites, complying with a Trump executive order
+on Diversity, Equity, and Inclusion (DEI).
+
+NASA states the change "does not indicate a change in crew assignments."
+The Artemis II crew (Wiseman, Glover, Koch, Hansen) remains unchanged.
+
+The program goal is reframed around geopolitical competition and
+national capability rather than identity-based firsts.

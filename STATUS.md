@@ -1,9 +1,9 @@
 # Artemis — Program Status
 
-> As of March 6, 2025
+> As of March 15, 2025
 
 **NASA Administrator:** Janet Petro (Acting Administrator)
-**Goal:** Land the first woman and first person of color on the Moon
+**Goal:** Return Americans to the Moon
 **Next Milestone:** Complete Artemis II stacking; heat shield fix verification
 
 ## Vehicles
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-Starship IFT-8 achieved a third booster catch but Ship 34 was lost during ascent — the second consecutive upper stage failure. The repeated losses fuel discussion about opening the lander competition.
+The Trump administration has removed 'first woman and first person of color' language from the Artemis description. Artemis II preparations continue. Starship HLS faces pressure after consecutive upper stage failures.
