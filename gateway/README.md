@@ -1,33 +1,42 @@
 # Lunar Gateway
 
+## Current Status (2025)
+
 The Gateway is a small space station planned to orbit the Moon in a
-near-rectilinear halo orbit (NRHO), serving as a staging point for
-lunar surface missions and deep space exploration.
+near-rectilinear halo orbit (NRHO).
 
 ## Modules
 
 ### Power and Propulsion Element (PPE)
-- **Contractor**: Maxar Technologies (contract awarded May 2019, ~$375M)
-- Solar electric propulsion system
-- 60 kW power generation
-- Communications relay capabilities
-- Provides station-keeping and orbital maneuvering
+- **Contractor**: Maxar Technologies / Lanteris Space Systems
+- 60 kW solar electric propulsion
+- Advanced Electric Propulsion System (AEPS) thrusters
+- In advanced integration at Northrop Grumman facility
 
 ### Habitation and Logistics Outpost (HALO)
 - **Contractor**: Northrop Grumman
-- Minimal habitation module
-- Docking ports for visiting vehicles
-- Command and control systems
-- Life support for short-duration crew stays
+- Stress testing completed at Thales Alenia Space (October 2024)
+- Arrived at Northrop Grumman facility in Gilbert, AZ (April 1, 2025)
+  after transatlantic journey from Turin, Italy
+- Now being integrated with PPE
 
-### International Habitation Module (I-Hab) (planned)
+### International Habitation Module (I-Hab)
 - ESA/JAXA contribution
-- Extended crew habitation capabilities
+- Extended habitation for crew stays
 
-## Orbit
-- Near-Rectilinear Halo Orbit (NRHO)
-- Period: ~7 days
-- Provides access to broad range of lunar landing sites
+### Lunar View / Lunar Link (formerly ESPRIT)
+- ESA contribution
+- Communications and refueling capability
 
-## Status
-PPE contract awarded. HALO in development. First launch TBD.
+## PPE+HALO Launch
+- Target: No earlier than 2027
+- Launch vehicle: Falcon Heavy
+
+## Technical Challenges (per July 2024 GAO report)
+- PPE orbital stability concerns when large vehicles docked
+- Both PPE and HALO exceed mass allocations
+- Teams working mitigation strategies
+
+## Canadarm3
+- Canadian Space Agency contribution
+- External robotic system for Gateway operations

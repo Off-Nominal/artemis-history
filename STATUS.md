@@ -1,19 +1,19 @@
 # Artemis — Program Status
 
-> As of March 15, 2025
+> As of April 1, 2025
 
 **NASA Administrator:** Janet Petro (Acting Administrator)
 **Goal:** Return Americans to the Moon
-**Next Milestone:** Complete Artemis II stacking; heat shield fix verification
+**Next Milestone:** Artemis II launch; Gateway PPE+HALO integration
 
 ## Vehicles
 - **Space Launch System (SLS): Artemis II stacking begun at VAB**
 - **Orion MPCV: Heat shield root cause identified — AVCOAT permeability; fixes being implemented**
 - **Human Landing System: SpaceX Starship HLS — IFT-8: third booster catch, Ship 34 lost again**
-- **Lunar Gateway: Removed from Artemis III critical path — not required for first landing**
+- **Lunar Gateway: HALO arrived for integration with PPE at Northrop Grumman**
 
 ## International Partners
 Artemis Accords: 50 signatory nations
 
 ## Overview
-The Trump administration has removed 'first woman and first person of color' language from the Artemis description. Artemis II preparations continue. Starship HLS faces pressure after consecutive upper stage failures.
+The Gateway HALO module has arrived for integration with the PPE, a major step toward completing the first Gateway elements. Artemis II preparations continue at KSC.
