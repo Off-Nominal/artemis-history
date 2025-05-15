@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of April 1, 2025
+> As of May 15, 2025
 
 **NASA Administrator:** Janet Petro (Acting Administrator)
 **Goal:** Return Americans to the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-The Gateway HALO module has arrived for integration with the PPE, a major step toward completing the first Gateway elements. Artemis II preparations continue at KSC.
+The FY2026 budget proposal includes a 24% NASA cut and would end SLS after Artemis III. The proposal faces strong bipartisan Congressional opposition from members who support SLS and its workforce.
