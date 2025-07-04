@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of May 15, 2025
+> As of July 4, 2025
 
 **NASA Administrator:** Janet Petro (Acting Administrator)
 **Goal:** Return Americans to the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-The FY2026 budget proposal includes a 24% NASA cut and would end SLS after Artemis III. The proposal faces strong bipartisan Congressional opposition from members who support SLS and its workforce.
+Congress has overridden proposed NASA cuts, securing $9.9B in Artemis funding through 2032. This ensures SLS production continues beyond Artemis III and provides stability for Gateway, HLS, and supporting programs.

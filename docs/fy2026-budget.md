@@ -1,24 +1,30 @@
-# FY2026 Budget Proposal
+# FY2026 Budget: One Big Beautiful Bill
 
-## White House Proposal (May 2025)
+## Signed: July 4, 2025
 
-The administration's FY2026 budget request proposes ~$18.8 billion for NASA,
-a cut of ~$6.34 billion (24%) from FY2025's $25.4 billion.
+President Trump signs the "One Big Beautiful Bill Act" (H.R. 1) into law.
+An amendment introduced by Senator Ted Cruz (R-TX) provides approximately
+$9.9 billion in additional NASA funding for Artemis programs through 2032.
 
-### Proposed Changes
-- Retire SLS and Orion after Artemis III
-- Cancel the Gateway program
-- Transition to commercial lunar transportation
-- New "Commercial Moon and Mars Infrastructure & Transportation" line: $864M
+## Artemis Funding Secured
 
-### Rationale
-Administration argues commercial systems (primarily SpaceX Starship) can
-perform lunar missions more affordably than SLS/Orion.
+| Program | Funding | Details |
+|---------|---------|---------|
+| SLS | $4.1 billion | Min $1.025B/year FY2026-2029 |
+| Orion | $20 million | For Artemis IV and beyond |
+| Gateway | $2.6 billion | Min $750M during FY2026-2028 |
+| ISS Operations | $1.25 billion | Continued operations |
 
-## Congressional Response
+## Impact
 
-Significant bipartisan opposition to the proposed cuts, particularly from
-members representing NASA centers and contractors.
+The legislation effectively overrides the administration's proposed cuts:
+- SLS continues beyond Artemis III
+- Gateway program preserved
+- Orion development sustained for future missions
+- Congressional mandate ensures program continuity through 2032
 
-## Status
-Budget negotiations ongoing in Congress.
+## Tension
+
+Ongoing tension between:
+- **Administration**: Prefers rapid transition to commercial systems
+- **Congress**: Mandates continuation of SLS, Orion, and Gateway

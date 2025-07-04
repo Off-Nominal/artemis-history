@@ -1,19 +1,20 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of May 15, 2025
+> Forward-looking plan as of July 4, 2025
 
 ## Upcoming Milestones
 
-- **Q3–Q4 2025**: Artemis II stacking, rollout, and launch prep
+- **Q3–Q4 2025**: Artemis II stacking complete, rollout, launch prep
 - **Late 2025**: Artemis II — crewed lunar flyby
-- **2026+**: Artemis III — first crewed landing (HLS timeline uncertain)
-- **TBD**: Gateway launch
+- **2026**: Artemis III — first crewed landing
+- **2026+**: Gateway PPE + HALO launch
+- **2027–2028**: Artemis IV and V
 - **2030s**: Mars
 
-## Budget Uncertainty
+## Funding Secured
 
-The FY2026 budget would end SLS after Artemis III. If enacted, Artemis IV+ needs alternative launch vehicles. Congress expected to reject.
+Congress has secured $9.9B for Artemis through 2032. The program has budget stability.
 
 ## Long-Term Vision
 
-The long-term future of Artemis depends on the Congressional budget outcome.
+With funding settled, focus returns to technical execution.
