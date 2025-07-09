@@ -1,8 +1,8 @@
 # Artemis — Program Status
 
-> As of July 4, 2025
+> As of July 9, 2025
 
-**NASA Administrator:** Janet Petro (Acting Administrator)
+**NASA Administrator:** Sean Duffy (Acting Administrator (also Secretary of Transportation))
 **Goal:** Return Americans to the Moon
 **Next Milestone:** Artemis II launch; Gateway PPE+HALO integration
 
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-Congress has overridden proposed NASA cuts, securing $9.9B in Artemis funding through 2032. This ensures SLS production continues beyond Artemis III and provides stability for Gateway, HLS, and supporting programs.
+Sean Duffy, the Transportation Secretary, has been named Acting NASA Administrator. He has no aerospace background. The Isaacman nomination remains stalled in the Senate. Artemis II stacking continues.
