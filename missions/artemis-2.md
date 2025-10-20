@@ -38,3 +38,11 @@ trajectory modifications based on heat shield findings.
 
 ## Target Launch
 April 2026
+
+## Stacking Complete: October 20, 2025
+
+Artemis II assembly completed with installation of the fully integrated
+Orion spacecraft, European Service Module, and Launch Abort System atop
+the SLS rocket in the Vehicle Assembly Building.
+
+The complete Artemis II stack is now ready for rollout to Launch Complex 39B.
