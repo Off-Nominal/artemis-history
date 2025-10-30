@@ -1,6 +1,6 @@
 # Artemis — Roadmap
 
-> Forward-looking plan as of October 20, 2025
+> Forward-looking plan as of October 30, 2025
 
 ## Upcoming Milestones
 

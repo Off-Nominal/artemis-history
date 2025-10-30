@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of October 20, 2025
+> As of October 30, 2025
 
 **NASA Administrator:** Sean Duffy (Acting Administrator (also Secretary of Transportation))
 **Goal:** Return Americans to the Moon
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-Artemis II vehicle stacking is complete at the VAB. The fully assembled SLS with Orion is ready for rollout to LC-39B. Acting Administrator Duffy is reviewing the HLS lander competition.
+SpaceX proposes a simplified Starship with expendable tankers and low lunar orbit rendezvous. Blue Origin proposes Blue Moon MK1, which requires no orbital refueling. NASA experts are evaluating both as the incoming permanent administrator prepares to decide the program's architecture.
