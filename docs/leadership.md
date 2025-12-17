@@ -1,23 +1,21 @@
 # Artemis Program Leadership
 
-## NASA Administrator Nomination
+## NASA Administrator: Jared Isaacman
 
-**December 4, 2024**: President-elect Donald Trump nominates Jared Isaacman
-to serve as the 15th NASA Administrator.
+### Confirmation
+- **First nomination**: December 4, 2024 (withdrawn May 2025)
+- **Re-nomination**: November 4, 2025
+- **Senate confirmation**: December 17, 2025 (vote: 67-30)
+- **Sworn in**: December 18, 2025
 
-### About Jared Isaacman
-- Billionaire entrepreneur and founder of Shift4 Payments
-- Experienced private astronaut:
-  - Commander, Inspiration4 (September 2021) - first all-civilian orbital mission
-  - Commander, Polaris Dawn (September 2024) - first commercial spacewalk
-- Trained fighter jet pilot
-- Known advocate for commercial spaceflight
+### Background
+- Founder and CEO of Shift4 Payments
+- Commander, Inspiration4 (September 2021)
+- Commander, Polaris Dawn (September 2024)
+- 15th NASA Administrator
 
-### Significance for Artemis
-Isaacman's nomination signals potential emphasis on commercial partnerships
-and cost efficiency in the Artemis program. His experience with SpaceX
-missions may influence the program's approach to commercial lunar
-transportation.
-
-## Status
-Nomination pending Senate confirmation.
+### Stated Priorities
+- SLS and existing Artemis architecture are fastest path to the Moon
+- Long-term transition to commercial systems for sustainability
+- Increase launch cadence and reduce per-mission costs
+- Strengthen commercial partnerships

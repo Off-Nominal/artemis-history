@@ -1,8 +1,8 @@
 # Artemis — Program Status
 
-> As of October 30, 2025
+> As of December 17, 2025
 
-**NASA Administrator:** Sean Duffy (Acting Administrator (also Secretary of Transportation))
+**NASA Administrator:** Jared Isaacman (15th Administrator)
 **Goal:** Return Americans to the Moon
 **Next Milestone:** Artemis II rollout; launch readiness review
 
@@ -16,4 +16,4 @@
 Artemis Accords: 50 signatory nations
 
 ## Overview
-SpaceX proposes a simplified Starship with expendable tankers and low lunar orbit rendezvous. Blue Origin proposes Blue Moon MK1, which requires no orbital refueling. NASA experts are evaluating both as the incoming permanent administrator prepares to decide the program's architecture.
+Jared Isaacman has been confirmed by the Senate (67-30) as NASA's 15th Administrator. The private astronaut and entrepreneur inherits a program in transition: the lander competition has been reopened, Artemis II is stacked, and the broader architecture is under review.
