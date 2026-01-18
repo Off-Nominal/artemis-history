@@ -46,3 +46,13 @@ Orion spacecraft, European Service Module, and Launch Abort System atop
 the SLS rocket in the Vehicle Assembly Building.
 
 The complete Artemis II stack is now ready for rollout to Launch Complex 39B.
+
+## Rollout to Pad: January 18, 2026
+
+The integrated Artemis II SLS rocket, Orion capsule, and mobile launcher
+roll out to Launch Complex 39B at Kennedy Space Center.
+
+- Transport: Crawler-Transporter 2
+- Distance: ~4 miles from VAB to LC-39B
+- Duration: ~12 hours
+- Launch window: Opening April 1, 2026
