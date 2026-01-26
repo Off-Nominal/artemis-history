@@ -1,26 +1,26 @@
 # Artemis Accords
 
-## Signed: October 13, 2020
+## Established: October 13, 2020
 
 The Artemis Accords establish principles to guide international cooperation
 in NASA's Artemis program for civil exploration and peaceful use of the
 Moon, Mars, and other celestial bodies.
 
-## Signatories (~33 nations as of late 2023)
+## 61 Signatories (as of January 2026)
+
+The Accords have grown from 8 founding nations to 61 signatories spanning
+every inhabited continent, making them the broadest international framework
+for space exploration cooperation in history.
 
 ### Founding Signatories (October 2020)
 United States, Australia, Canada, Italy, Japan, Luxembourg,
 United Arab Emirates, United Kingdom
 
-### 2020-2021
-Ukraine, South Korea, New Zealand, Brazil, Poland, Mexico, Israel,
-Romania, Bahrain, Singapore, Colombia
-
-### 2022
-France, Saudi Arabia, Rwanda, Nigeria
-
-### 2023
-Czech Republic, Spain, Ecuador, India, Germany, and others
+### Notable Additions
+- 2022: France, Saudi Arabia; Rwanda and Nigeria (first African nations)
+- 2023: India, Germany, Spain, Czech Republic, Ecuador
+- 2024-2025: Continued growth across Asia, Africa, Latin America
+- January 2026: Oman (61st signatory)
 
 ## Core Principles
 
@@ -34,9 +34,3 @@ Czech Republic, Spain, Ecuador, India, Germany, and others
 8. Space resources
 9. Deconfliction of activities
 10. Orbital debris mitigation
-
-## Significance
-
-The Accords now represent the broadest international framework for
-space exploration cooperation, with signatories spanning six continents.
-India's signing during PM Modi's 2023 state visit was a landmark addition.
