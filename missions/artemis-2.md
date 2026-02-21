@@ -56,3 +56,18 @@ roll out to Launch Complex 39B at Kennedy Space Center.
 - Distance: ~4 miles from VAB to LC-39B
 - Duration: ~12 hours
 - Launch window: Opening April 1, 2026
+
+## Wet Dress Rehearsal
+
+### WDR Attempt 1 (Early February 2026)
+Encountered a liquid hydrogen leak during simulated countdown. Scrubbed.
+
+### WDR Attempt 2 (February 19, 2026)
+Achieved a full simulated countdown but revealed a helium flow issue in the
+Interim Cryogenic Propulsion Stage (ICPS).
+
+### Decision (February 21, 2026)
+Due to the ICPS helium flow issue, NASA decides to roll Artemis II back to
+the Vehicle Assembly Building for investigation and repairs.
+
+Launch pushed to April 2026 at the earliest (window: April 1-6, 2026).
