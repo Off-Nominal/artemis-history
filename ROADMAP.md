@@ -4,20 +4,17 @@
 
 ## Upcoming Milestones
 
-- **April 2026**: Artemis II — crewed lunar flyby (4 crew, ~10 days)
-- **Mid-2027**: Artemis III — LEO rendezvous and systems test with commercial lander(s)
+- **April 2026**: Artemis II — crewed lunar flyby
+- **Mid-2027**: Artemis III — LEO rendezvous and systems test
 - **Early 2028**: Artemis IV — FIRST CREWED LUNAR LANDING
-- **2028+**: Artemis V and sustained surface operations
+- **2028+**: Artemis V+ — sustained surface operations (annual SLS flights)
 - **2027+**: Gateway PPE + HALO launch
 - **2030+**: Mars
 
-## Restructured Architecture
+## Simplified SLS
 
-- Artemis III changed from landing to LEO systems test
-- First landing moves to Artemis IV (2028)
-- Open competition: first company ready wins
-- Target cadence: one SLS flight per year
+Block 1B, Block 2, and ML-2 canceled. Standardized near-Block 1 for all future flights.
 
 ## Long-Term Vision
 
-Test before you land. Prove the lander systems in LEO before committing crew to the lunar surface.
+Leaner, faster, more sustainable. Annual SLS flights with a standardized vehicle, open lander competition, and Gateway.

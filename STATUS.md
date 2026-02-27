@@ -7,7 +7,7 @@
 **Next Milestone:** Artemis II crewed flyby (April 2026); Artemis III LEO systems test; Artemis IV landing (2028)
 
 ## Vehicles
-- **Space Launch System (SLS): Artemis II rolled back to VAB — ICPS helium flow issue**
+- **Space Launch System (SLS): Block 1 only — Block 1B, Block 2, and ML-2 canceled**
 - **Orion MPCV: Heat shield root cause identified — AVCOAT permeability; fixes being implemented**
 - **Human Landing System: Open competition — first company ready gets the Artemis IV landing**
 - **Lunar Gateway: HALO arrived for integration with PPE at Northrop Grumman**
@@ -16,4 +16,4 @@
 Artemis Accords: 61 signatory nations
 
 ## Overview
-Isaacman has announced a major Artemis 'course correction.' Artemis III is now an LEO systems test, not a landing. The first crewed landing moves to Artemis IV, targeted for 2028. 'The first company capable of delivering a lander is the one this nation will go with.'
+As part of the restructuring, NASA has canceled SLS Block 1B, Block 2, and Mobile Launcher 2. All future flights use a near-Block 1 configuration, trading payload capacity for faster cadence (one flight/year target vs. one every ~3 years).
