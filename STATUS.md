@@ -1,6 +1,6 @@
 # Artemis — Program Status
 
-> As of February 27, 2026
+> As of March 12, 2026
 
 **NASA Administrator:** Jared Isaacman (15th Administrator)
 **Goal:** Return Americans to the Moon — first landing targeted 2028 (Artemis IV)
@@ -16,4 +16,4 @@
 Artemis Accords: 61 signatory nations
 
 ## Overview
-As part of the restructuring, NASA has canceled SLS Block 1B, Block 2, and Mobile Launcher 2. All future flights use a near-Block 1 configuration, trading payload capacity for faster cadence (one flight/year target vs. one every ~3 years).
+Artemis II targets April 2026 after ICPS repair. Starship HLS and Blue Moon development continue under open competition. Gateway PPE+HALO integration in progress. 61 nations have signed the Accords. The program has been restructured: Artemis III is an LEO test, first landing moves to Artemis IV (2028).
