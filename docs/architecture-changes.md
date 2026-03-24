@@ -58,3 +58,26 @@ missions, using the existing ICPS upper stage or minor variants.
 Eliminates a major schedule dependency. The original plan required ML-2
 for Artemis IV, but ML-2 wouldn't have been ready until 2029. Now Artemis IV
 can use the existing ML-1, targeting early 2028.
+
+## March 24, 2026 - Gateway Paused Indefinitely (Ignition Event)
+
+As part of NASA's "Ignition" agencywide realignment, the Lunar Gateway is
+paused indefinitely.
+
+### What Changed
+- Gateway PPE+HALO integration halted
+- Gateway hardware reallocated to Space Reactor-1 Freedom nuclear Mars mission
+- Artemis IV no longer depends on Gateway or I-Hab delivery
+- Not formally canceled, but no active development timeline
+
+### New Architecture Priorities
+- **Lunar base**: Three-phase plan for permanent south pole base (~$20B/7 years)
+- **Mars**: SR-1 Freedom nuclear-powered spacecraft launching late 2028
+- **Mission cadence**: One landing every six months after Artemis V using
+  commercially procured reusable hardware
+- **CLPS 2.0**: Up to 30 robotic landings starting 2027 ($6B cap)
+
+### Rationale
+Resources redirected from Gateway to direct lunar surface infrastructure
+and Mars exploration. The lunar base approach prioritizes building permanent
+surface presence over maintaining a crewed orbital station.

@@ -85,3 +85,16 @@ Key milestones:
 - 40 nations with Lithuania (May 2024)
 - 50 nations with Panama and Austria (December 2024)
 - 61 nations with Oman (January 2026)
+
+## March 24, 2026 - NASA Ignition Event
+
+Administrator Isaacman unveils "Ignition," a sweeping agencywide realignment
+implementing the 2025 National Space Policy.
+
+Key schedule impacts:
+- Gateway paused indefinitely; hardware reallocated to SR-1 Freedom Mars mission
+- Lunar base planned for south pole by ~2030 (~$20B over seven years)
+- Mission cadence: one landing every six months after Artemis V
+- SR-1 Freedom nuclear Mars spacecraft targeting late 2028 launch
+- CLPS 2.0: up to 30 robotic landings starting 2027
+- ISS extended to mid-2030s with phased LEO transition

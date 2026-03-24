@@ -6,6 +6,13 @@ Lunar Gateway.
 
 Named after the Greek goddess of the Moon and twin sister of Apollo.
 
+## NASA IGNITION (March 24, 2026)
+
+Administrator Isaacman unveils "Ignition" — sweeping agencywide realignment.
+Gateway paused indefinitely. Lunar base planned (~$20B/7 years). SR-1 Freedom
+nuclear Mars mission announced for late 2028. CLPS 2.0 targets 30 robotic
+landings. One landing every six months after Artemis V.
+
 ## PROGRAM RESTRUCTURING (February 27, 2026)
 
 NASA Administrator Jared Isaacman announces a major restructuring of the
@@ -40,14 +47,15 @@ Second crewed lunar landing. Target: ~10-month cadence from Artemis IV.
 - **Orion** - Crew vehicle with ESA European Service Module (flight proven)
 - **SpaceX Starship HLS** - Human Landing System (Artemis III-IV)
 - **Blue Origin Blue Moon MK2** - Human Landing System (Artemis V+)
-- **Lunar Gateway** - Lunar orbital station (PPE+HALO integrating, launch ~2027)
+- **Lunar Gateway** - PAUSED INDEFINITELY (hardware reallocated to SR-1 Freedom)
 - **Axiom AxEMU** - Moonwalking spacesuit (in development)
 
 ## International Partners
 
-- **ESA**: European Service Module, Gateway I-Hab/Lunar View/Lunar Link
-- **CSA**: Canadarm3 robotics, astronaut Jeremy Hansen on Artemis II
-- **JAXA**: Gateway I-Hab subsystems
+- **ESA**: European Service Module, Rosalind Franklin Rover (NASA administering)
+- **CSA**: Lunar Utility Vehicle, astronaut Jeremy Hansen on Artemis II
+- **JAXA**: Pressurized lunar rover
+- **ASI**: Multi-Purpose Habitats for lunar base
 
 ## Artemis Accords
 61 nations as of January 2026.

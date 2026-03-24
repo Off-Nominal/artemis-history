@@ -14,8 +14,15 @@ crewed lunar landing mission.
 - Target: Early 2028
 
 ## Architecture
-- SLS Block 1B with Exploration Upper Stage
+- SLS Block 1 (standardized configuration)
 - Orion with European Service Module
-- Lunar Gateway (PPE + HALO, pre-positioned)
-- I-Hab module (co-manifested)
-- Human Landing System (SpaceX Starship HLS)
+- Human Landing System (first company ready — SpaceX or Blue Origin)
+
+Note: Gateway paused indefinitely as of March 24, 2026 (Ignition event).
+Artemis IV no longer depends on Gateway or I-Hab delivery.
+
+## Post-Ignition Cadence (March 24, 2026)
+
+After Artemis IV and V, NASA plans to incorporate commercially procured,
+reusable hardware to conduct frequent crewed landings — initially targeting
+one landing every six months.

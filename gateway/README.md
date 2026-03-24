@@ -1,6 +1,13 @@
 # Lunar Gateway
 
-## Current Status (2025)
+## Current Status: PAUSED INDEFINITELY (March 24, 2026)
+
+As part of NASA's "Ignition" event, the Lunar Gateway has been paused
+indefinitely. It has not been formally canceled, but its resources and some
+hardware are being reallocated to the Space Reactor-1 Freedom nuclear Mars
+mission. The pause redirects funding toward the lunar base and Mars priorities.
+
+## Prior Status (2025)
 
 The Gateway is a small space station planned to orbit the Moon in a
 near-rectilinear halo orbit (NRHO).

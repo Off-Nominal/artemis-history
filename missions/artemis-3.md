@@ -22,3 +22,9 @@ Earth-orbit rendezvous and integrated systems test.
 Testing complex HLS docking and crew transfer in Earth orbit first reduces
 risk for the actual lunar landing (now Artemis IV). Allows parallel HLS
 development to continue while proving integration in an accessible environment.
+
+## Ignition Event Confirmation (March 24, 2026)
+
+NASA's "Ignition" event confirmed Artemis III as a focused Earth-orbit test
+mission to dock with one or both lunar landing systems and validate integrated
+systems and operations in advance of the Artemis IV lunar landing.
